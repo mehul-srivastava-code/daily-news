@@ -1,24 +1,35 @@
 Here are a few different styles of random text depending on what you need:
 
----
-
-### 1. Classic Placeholder (Lorem Ipsum)
-> *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.*
+### 1. Traditional Placeholder (Lorem Ipsum)
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 ---
 
-### 2. Creative / Sci-Fi Story
-> *The navigation console hummed at a frequency just low enough to make Kael’s teeth ache. Outside the viewport, the rings of Oakhaven glowed faintly under the light of three distant white dwarfs. "Jump sequence verified," the automated voice crackled. He pulled down the release lever, waiting for the familiar lurch that came when space folded over itself.*
+### 2. Natural English Narrative (Realistic Dummy Text)
+> The tea had gone completely cold by the time Marcus looked up from the blueprint. Outside, the rain tapped an erratic rhythm against the glass, blurring the neon glow of the street market below. He folded the parchment carefully, tucked it into the inner lining of his coat, and checked the clock on the mantle—he had twenty minutes before the evening train departed.
 
 ---
 
-### 3. Corporate / Business Jargon
-> *Moving forward, we need to synergize our core competencies to maximize bandwidth across multi-tiered workflows. Leveraging end-to-end deliverables will allow the stakeholders to establish actionable KPIs. Let’s take this offline and circle back by end of week with a high-level roadmap.*
+### 3. Sci-Fi / Technical Fluff
+> Sub-relay sector 4-B reported an unscheduled thermal spike following the calibration sequence. Secondary quantum dampeners engaged within nominal limits, but telemetry shows intermittent packet loss across the primary bus. Maintenance teams should verify terminal coupling before the next orbital cycle begins.
 
 ---
 
-### 4. Casual Dialogue
-> *"Did you remember to turn off the oven before we left?"*  
-> *"Pretty sure I did. Why, did you smell smoke?"*  
-> *"No, but you had that look you get whenever you forget the house keys."*  
-> *"That wasn't the keys, that was me realizing we just drove 40 miles in the wrong dire
+### 4. Whimsical / Abstract
+> A wandering pocket watch forgot which hour came after seven, so it decided to tick sideways instead. The dandelion seeds took notes, filing them neatly under the roots of an old oak tree that only spoke in rustling whispers whenever the October wind asked for directions.
+
+---
+
+### 5. Short Random Sentences (Great for testing inputs)
+* The purple notebook vanished behind the bookshelf.
+* Forty-two penguins decided that Tuesday was overrated.
+* Echoes in the limestone cave mimicked the sound of running water.
+* He calibrated the compass using a slice of lemon and pure optimism.
+
+---
+
+**Need something specific?** I can generate:
+- A specific word or character count
+- Formatted dummy data (JSON, CSV, names, addresses)
+- Pure gibberish / alphanumeric strings for password or hash testing
+- Text in a specific genre or tone
