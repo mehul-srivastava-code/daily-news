@@ -1,35 +1,39 @@
-Here are a few different styles of random text depending on what you need:
-
-### 1. Traditional Placeholder (Lorem Ipsum)
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here are a few different types of random text, depending on what you need it for:
 
 ---
 
-### 2. Natural English Narrative (Realistic Dummy Text)
-> The tea had gone completely cold by the time Marcus looked up from the blueprint. Outside, the rain tapped an erratic rhythm against the glass, blurring the neon glow of the street market below. He folded the parchment carefully, tucked it into the inner lining of his coat, and checked the clock on the mantle—he had twenty minutes before the evening train departed.
+### 1. Creative / Surreal Paragraphs *(Good for reading practice or mock articles)*
+
+**Sample 1:**
+The clockwork owl decided that Tuesday was an overrated concept. Instead, it tuned its brass feathers to pick up late-night jazz transmissions from a radio frequency that technically shouldn't exist. Down below, the streetlights flickered in faint Morse code, debating whether to illuminate the damp cobblestones or simply take the rest of the evening off. 
+
+**Sample 2:**
+A single cloud shaped vaguely like a teapot hovered over the abandoned tennis court. It didn't rain water; it merely dropped the faint aroma of ozone and old library paperbacks. Marcus adjusted his sunglasses, wrote an unreadable reminder on a paper napkin, and tucked it into the pocket of a coat he didn't remember buying.
 
 ---
 
-### 3. Sci-Fi / Technical Fluff
-> Sub-relay sector 4-B reported an unscheduled thermal spike following the calibration sequence. Secondary quantum dampeners engaged within nominal limits, but telemetry shows intermittent packet loss across the primary bus. Maintenance teams should verify terminal coupling before the next orbital cycle begins.
+### 2. Classic Placeholder *(Lorem Ipsum – best for design & layouts)*
+
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
 ---
 
-### 4. Whimsical / Abstract
-> A wandering pocket watch forgot which hour came after seven, so it decided to tick sideways instead. The dandelion seeds took notes, filing them neatly under the roots of an old oak tree that only spoke in rustling whispers whenever the October wind asked for directions.
+### 3. Random One-Liner Sentences *(Good for UI testing or prompts)*
+
+* The toaster has achieved consciousness, but only regarding sourdough bread.
+* Never challenge an octopus to a game of high-stakes air hockey.
+* He wore mismatched socks as a subtle, private rebellion against basic geometry.
+* Maps rarely show the secret tunnels running directly beneath the laundromat.
+* The blue kettle whistled three octaves lower than usual, signaling a change in the weather.
 
 ---
 
-### 5. Short Random Sentences (Great for testing inputs)
-* The purple notebook vanished behind the bookshelf.
-* Forty-two penguins decided that Tuesday was overrated.
-* Echoes in the limestone cave mimicked the sound of running water.
-* He calibrated the compass using a slice of lemon and pure optimism.
+### 4. Raw Character Strings *(Good for passwords, code testing, or cryptography mockups)*
+
+* `k9#mP$2vL!aQ8zX@bW4eR^7tY*1uI&6o`
+* `8F2A-C9E1-04D7-BB63-91A0-7E5F`
+* `xkz_99aLq0vMbRtYw882_pJxK19mQ`
 
 ---
 
-**Need something specific?** I can generate:
-- A specific word or character count
-- Formatted dummy data (JSON, CSV, names, addresses)
-- Pure gibberish / alphanumeric strings for password or hash testing
-- Text in a specific genre or tone
+*If you need a specific length, format, or theme (like technical jargon, fantasy, or business speak), let me know!*
