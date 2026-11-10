@@ -1,39 +1,33 @@
-Here are a few different types of random text, depending on what you need it for:
+Here are a few different styles of random text, depending on what you need them for:
 
 ---
 
-### 1. Creative / Surreal Paragraphs *(Good for reading practice or mock articles)*
-
-**Sample 1:**
-The clockwork owl decided that Tuesday was an overrated concept. Instead, it tuned its brass feathers to pick up late-night jazz transmissions from a radio frequency that technically shouldn't exist. Down below, the streetlights flickered in faint Morse code, debating whether to illuminate the damp cobblestones or simply take the rest of the evening off. 
-
-**Sample 2:**
-A single cloud shaped vaguely like a teapot hovered over the abandoned tennis court. It didn't rain water; it merely dropped the faint aroma of ozone and old library paperbacks. Marcus adjusted his sunglasses, wrote an unreadable reminder on a paper napkin, and tucked it into the pocket of a coat he didn't remember buying.
+### 1. Narrative / Creative Fiction
+> The kettle began to whistle just as the power blinked twice and died. Mark stood in the dim kitchen, listening to the sudden, heavy silence of the house. Outside, rain tapped erratic rhythms against the skylight, each drop blurring the yellow glow of the streetlamp below. He pulled a box of matches from the drawer, struck one, and watched the tiny flame dance across the cold granite counter.
 
 ---
 
-### 2. Classic Placeholder *(Lorem Ipsum – best for design & layouts)*
-
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-
----
-
-### 3. Random One-Liner Sentences *(Good for UI testing or prompts)*
-
-* The toaster has achieved consciousness, but only regarding sourdough bread.
-* Never challenge an octopus to a game of high-stakes air hockey.
-* He wore mismatched socks as a subtle, private rebellion against basic geometry.
-* Maps rarely show the secret tunnels running directly beneath the laundromat.
-* The blue kettle whistled three octaves lower than usual, signaling a change in the weather.
+### 2. Stream of Consciousness / Casual
+> Honestly, nobody thinks about elevator buttons until one doesn't light up. You press it twice, maybe three times, like the extra pressure convinces the building to hurry up. Then you just stand there looking at your shoes, pretending you didn't just aggressively poke a piece of plastic because you were two minutes behind schedule for a meeting that could have been an email anyway.
 
 ---
 
-### 4. Raw Character Strings *(Good for passwords, code testing, or cryptography mockups)*
-
-* `k9#mP$2vL!aQ8zX@bW4eR^7tY*1uI&6o`
-* `8F2A-C9E1-04D7-BB63-91A0-7E5F`
-* `xkz_99aLq0vMbRtYw882_pJxK19mQ`
+### 3. Sci-Fi / Technobabble
+> Sub-relay 4B reported an irregular frequency drift along the secondary thermal grid. Automated diagnostics initiated a soft purge, resetting the quantum buffer to default tolerances. If baseline synchronization is not restored within three cycles, the auxiliary capacitors will divert surplus flux directly into the cooling manifold.
 
 ---
 
-*If you need a specific length, format, or theme (like technical jargon, fantasy, or business speak), let me know!*
+### 4. Modern English Placeholder (Alternative to *Lorem Ipsum*)
+> The quick discovery of the missing archive surprised the entire research department. Every cataloged folder contained detailed cross-references, yet several critical timelines remained completely blank. To prevent further confusion, the senior curator ordered a comprehensive review of all incoming digital assets before the end of the fiscal quarter.
+
+---
+
+### 5. Short Absurd / Quirky Sentences
+* A toaster is just a tiny, optimistic sun for bread.
+* Never trust a map drawn entirely in neon highlighter.
+* The clock didn’t lose time; it simply decided to hoard it.
+* Somewhere in the forest, a squirrel is managing a surprisingly complex investment portfolio.
+
+---
+
+If you need a specific type (e.g., standard **Lorem Ipsum**, a specific **word count**, **test data/JSON**, or a particular **genre/tone**), let me know!
