@@ -1,20 +1,20 @@
-Here are a few different styles of random text, depending on what you need it for:
+Here are a few different styles of random text, depending on what you need:
 
-### 1. Creative / Story Snippet
-> The neon sign outside the 24-hour diner hummed at a frequency only dogs and tired travelers could hear. Rain continued to drum against the cracked asphalt, turning the parking lot into a shallow, shimmering lake. Inside, an old radio played a jazz tune from forty years ago, while a lone cup of black coffee slowly went cold by the window. Nobody was in a hurry to go anywhere.
+### 1. Story / Narrative Snippet
+> The neon sign outside the diner flickered with a faint, rhythmic buzz. Rain tapped softly against the cracked windowpane, blurring the headlights of the evening traffic into streaks of gold and red. Inside, Arthur stirred two packets of sugar into a lukewarm cup of coffee, wondering if the 5:15 bus was running late again, or if it had simply forgotten this stop entirely.
 
-### 2. Absurd / Surreal (Truly "Random")
-> A parade of velvet teacups floated down the hallway, politely ignoring the grandfather clock that had recently decided to run backwards. The resident house cat didn't care about the laws of physics anymore; it was far too busy trying to teach the toaster how to speak fluent French. Meanwhile, Tuesday arrived on a Thursday, causing mild paperwork issues for the local wizards.
+### 2. Surreal / Abstract
+> A velvet toaster whispered forgotten secrets to the grandfather clock. Gravity seemed entirely optional on Tuesdays, especially when the potted ferns began their slow migration toward the ceiling. Meanwhile, an origami crane folded itself into a miniature bicycle and pedaled across the hardwood floor, searching for a crumb of yesterday's bread.
 
-### 3. Sci-Fi / Tech-Babble
-> System diagnostic complete: Sub-orbital relay 4-B has stabilized at 84% harmonic capacity. Please ensure the magnetic dampeners are flushed before engaging the tertiary warp manifold. A minor thermal leak in corridor seven was corrected automatically, but the secondary oxygen recyclers may require manual recalibration within the next six operational cycles.
+### 3. Sci-Fi / Technical
+> Sub-orbital telemetry indicates a 4.2% variance in the primary magnetic dampening array. Sector 9 reported anomalous radiation spikes shortly after the quantum core stabilized. All ground personnel are advised to maintain passive scanning protocols until the secondary coolant valves safely disengage.
 
-### 4. Casual / Everyday Slice of Life
-> Did anyone actually remember to buy laundry detergent, or are we just hoping our clothes magically wash themselves this week? Also, if you hear a weird thumping sound coming from the pantry, don't worry about it—I think it’s just the bag of potatoes settling, but don't quote me on that. Let me know what you want for dinner before I end up ordering pizza again.
+### 4. Casual / Conversational
+> Hey, just wanted to check in about the weekend. Did we decide on bringing our own gear, or is the venue providing everything? Also, let me know if you want me to grab breakfast on the way—there’s that new bakery down on 4th Street that everyone keeps talking about.
 
-### 5. Classic Placeholder (Standard *Lorem Ipsum*)
-> *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.*
+### 5. Classic "Lorem Ipsum" (Placeholder text)
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 ***
 
-*If you need a specific type of text (e.g., long paragraphs for website mockups, dialogue, poetry, or completely meaningless scrambled words), let me know!*
+*If you need a specific type of text (e.g., word count, specific genre, single random words, or code placeholders), let me know!*
