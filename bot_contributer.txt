@@ -1,33 +1,20 @@
-Here are a few different styles of random text, depending on what you need them for:
+Here are a few different styles of random text, depending on what you need it for:
 
----
+### 1. Creative / Story Snippet
+> The neon sign outside the 24-hour diner hummed at a frequency only dogs and tired travelers could hear. Rain continued to drum against the cracked asphalt, turning the parking lot into a shallow, shimmering lake. Inside, an old radio played a jazz tune from forty years ago, while a lone cup of black coffee slowly went cold by the window. Nobody was in a hurry to go anywhere.
 
-### 1. Narrative / Creative Fiction
-> The kettle began to whistle just as the power blinked twice and died. Mark stood in the dim kitchen, listening to the sudden, heavy silence of the house. Outside, rain tapped erratic rhythms against the skylight, each drop blurring the yellow glow of the streetlamp below. He pulled a box of matches from the drawer, struck one, and watched the tiny flame dance across the cold granite counter.
+### 2. Absurd / Surreal (Truly "Random")
+> A parade of velvet teacups floated down the hallway, politely ignoring the grandfather clock that had recently decided to run backwards. The resident house cat didn't care about the laws of physics anymore; it was far too busy trying to teach the toaster how to speak fluent French. Meanwhile, Tuesday arrived on a Thursday, causing mild paperwork issues for the local wizards.
 
----
+### 3. Sci-Fi / Tech-Babble
+> System diagnostic complete: Sub-orbital relay 4-B has stabilized at 84% harmonic capacity. Please ensure the magnetic dampeners are flushed before engaging the tertiary warp manifold. A minor thermal leak in corridor seven was corrected automatically, but the secondary oxygen recyclers may require manual recalibration within the next six operational cycles.
 
-### 2. Stream of Consciousness / Casual
-> Honestly, nobody thinks about elevator buttons until one doesn't light up. You press it twice, maybe three times, like the extra pressure convinces the building to hurry up. Then you just stand there looking at your shoes, pretending you didn't just aggressively poke a piece of plastic because you were two minutes behind schedule for a meeting that could have been an email anyway.
+### 4. Casual / Everyday Slice of Life
+> Did anyone actually remember to buy laundry detergent, or are we just hoping our clothes magically wash themselves this week? Also, if you hear a weird thumping sound coming from the pantry, don't worry about it—I think it’s just the bag of potatoes settling, but don't quote me on that. Let me know what you want for dinner before I end up ordering pizza again.
 
----
+### 5. Classic Placeholder (Standard *Lorem Ipsum*)
+> *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.*
 
-### 3. Sci-Fi / Technobabble
-> Sub-relay 4B reported an irregular frequency drift along the secondary thermal grid. Automated diagnostics initiated a soft purge, resetting the quantum buffer to default tolerances. If baseline synchronization is not restored within three cycles, the auxiliary capacitors will divert surplus flux directly into the cooling manifold.
+***
 
----
-
-### 4. Modern English Placeholder (Alternative to *Lorem Ipsum*)
-> The quick discovery of the missing archive surprised the entire research department. Every cataloged folder contained detailed cross-references, yet several critical timelines remained completely blank. To prevent further confusion, the senior curator ordered a comprehensive review of all incoming digital assets before the end of the fiscal quarter.
-
----
-
-### 5. Short Absurd / Quirky Sentences
-* A toaster is just a tiny, optimistic sun for bread.
-* Never trust a map drawn entirely in neon highlighter.
-* The clock didn’t lose time; it simply decided to hoard it.
-* Somewhere in the forest, a squirrel is managing a surprisingly complex investment portfolio.
-
----
-
-If you need a specific type (e.g., standard **Lorem Ipsum**, a specific **word count**, **test data/JSON**, or a particular **genre/tone**), let me know!
+*If you need a specific type of text (e.g., long paragraphs for website mockups, dialogue, poetry, or completely meaningless scrambled words), let me know!*
