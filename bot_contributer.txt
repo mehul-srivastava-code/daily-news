@@ -1,20 +1,23 @@
-Here are a few different styles of random text, depending on what you need:
+Here are a few different styles of random text, depending on what you need it for:
 
-### 1. Story / Narrative Snippet
-> The neon sign outside the diner flickered with a faint, rhythmic buzz. Rain tapped softly against the cracked windowpane, blurring the headlights of the evening traffic into streaks of gold and red. Inside, Arthur stirred two packets of sugar into a lukewarm cup of coffee, wondering if the 5:15 bus was running late again, or if it had simply forgotten this stop entirely.
+### 1. Creative / Story Prompt
+> The clock tower struck thirteen, though nobody in the square seemed to notice. A stray cat with mismatched eyes slipped between the rusted iron gates of the abandoned conservatory. Rain began to patter against the cobblestones, carrying the faint, metallic scent of ozone and old secrets. Somewhere nearby, a radio crackled to life, playing a song that hadn't been recorded yet.
 
-### 2. Surreal / Abstract
-> A velvet toaster whispered forgotten secrets to the grandfather clock. Gravity seemed entirely optional on Tuesdays, especially when the potted ferns began their slow migration toward the ceiling. Meanwhile, an origami crane folded itself into a miniature bicycle and pedaled across the hardwood floor, searching for a crumb of yesterday's bread.
-
-### 3. Sci-Fi / Technical
-> Sub-orbital telemetry indicates a 4.2% variance in the primary magnetic dampening array. Sector 9 reported anomalous radiation spikes shortly after the quantum core stabilized. All ground personnel are advised to maintain passive scanning protocols until the secondary coolant valves safely disengage.
-
-### 4. Casual / Conversational
-> Hey, just wanted to check in about the weekend. Did we decide on bringing our own gear, or is the venue providing everything? Also, let me know if you want me to grab breakfast on the way—there’s that new bakery down on 4th Street that everyone keeps talking about.
-
-### 5. Classic "Lorem Ipsum" (Placeholder text)
+### 2. Standard Placeholder (Lorem Ipsum)
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+### 3. Sci-Fi / Cyberpunk Jargon
+> Warning: Quantum core telemetry indicates a 14% deviation in the secondary cooling loop. Sub-routine 409 failed to compile across the neural matrix. If atmospheric seal integrity drops below baseline, initiate emergency airlock sequence 9-Delta immediately. Manual override credentials required.
+
+### 4. Whimsical / Absurd
+> Toaster ovens rarely spend their free time contemplating the socio-economic implications of blueberry jam. If clouds were actually made of spun sugar, meteorology would be a significantly stickier discipline. Always remember: before crossing the street, check both ways for rogue accordions.
+
+### 5. Pure Gibberish (Invented Words)
+> Flarb nexium vortic, plindle quax tramboline! Zibber-wobble plonk greepish thrum. Quorly dendrite flaxon morp, spackle-graft drunify velos.
 
 ***
 
-*If you need a specific type of text (e.g., word count, specific genre, single random words, or code placeholders), let me know!*
+**Need something specific?** Tell me if you need:
+* A specific length (e.g., 500 words, one paragraph)
+* A specific theme (e.g., legal, medical, fantasy, business)
+* Text in another language
