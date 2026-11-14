@@ -1,23 +1,20 @@
-Here are a few different styles of random text, depending on what you need it for:
+Here are a few different styles of random text, depending on what you need:
 
-### 1. Creative / Story Prompt
-> The clock tower struck thirteen, though nobody in the square seemed to notice. A stray cat with mismatched eyes slipped between the rusted iron gates of the abandoned conservatory. Rain began to patter against the cobblestones, carrying the faint, metallic scent of ozone and old secrets. Somewhere nearby, a radio crackled to life, playing a song that hadn't been recorded yet.
+### 1. Creative / Story Snippet
+> The clocktower struck thirteen, a dull metallic thud that sent the gulls scattering into the violet evening sky. Clara pulled her coat tighter against the sea mist, wondering if the shopkeeper had intentionally given her the wrong key. In her pocket, the cold bronze suddenly felt unnervingly warm.
 
-### 2. Standard Placeholder (Lorem Ipsum)
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+### 2. Pure Absurd / Nonsense
+> The neon-striped teapot refused to negotiate with the lawnmower, arguing that Tuesdays were reserved exclusively for floating upside down. Meanwhile, a parliament of owls debated the structural integrity of peanut butter bridges across the kitchen counter.
 
-### 3. Sci-Fi / Cyberpunk Jargon
-> Warning: Quantum core telemetry indicates a 14% deviation in the secondary cooling loop. Sub-routine 409 failed to compile across the neural matrix. If atmospheric seal integrity drops below baseline, initiate emergency airlock sequence 9-Delta immediately. Manual override credentials required.
+### 3. Corporate / Business Jargon
+> Moving forward, our core deliverable must leverage cross-functional synergies to maximize bandwidth across multi-tiered ecosystems. If we pivot the low-hanging fruit into actionable touchpoints, we can seamlessly optimize the client-facing pipeline by Q3.
 
-### 4. Whimsical / Absurd
-> Toaster ovens rarely spend their free time contemplating the socio-economic implications of blueberry jam. If clouds were actually made of spun sugar, meteorology would be a significantly stickier discipline. Always remember: before crossing the street, check both ways for rogue accordions.
+### 4. Sci-Fi / Cyberpunk Log
+> **[SYSTEM ALERT: Sector 09-D]** Atmospheric scrubbers operating at 43% nominal capacity. Unidentified biometric signature detected near the hydroponic conduits. Encryption key *Delta-7* failed handshake with the main orbital relay. Manual override recommended.
 
-### 5. Pure Gibberish (Invented Words)
-> Flarb nexium vortic, plindle quax tramboline! Zibber-wobble plonk greepish thrum. Quorly dendrite flaxon morp, spackle-graft drunify velos.
+### 5. Classic *Lorem Ipsum* (Standard Placeholder)
+> *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.*
 
 ***
 
-**Need something specific?** Tell me if you need:
-* A specific length (e.g., 500 words, one paragraph)
-* A specific theme (e.g., legal, medical, fantasy, business)
-* Text in another language
+**Need something specific?** Tell me if you need a specific **word count**, **topic** (e.g., fantasy, tech, dialogue), or **format** (paragraphs, single sentences, bullet points).
