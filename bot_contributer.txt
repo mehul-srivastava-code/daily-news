@@ -1,20 +1,33 @@
-Here are a few different styles of random text, depending on what you need:
+Here are a few different styles of random text, depending on what you need them for:
 
-### 1. Creative / Story Snippet
-> The clocktower struck thirteen, a dull metallic thud that sent the gulls scattering into the violet evening sky. Clara pulled her coat tighter against the sea mist, wondering if the shopkeeper had intentionally given her the wrong key. In her pocket, the cold bronze suddenly felt unnervingly warm.
+---
 
-### 2. Pure Absurd / Nonsense
-> The neon-striped teapot refused to negotiate with the lawnmower, arguing that Tuesdays were reserved exclusively for floating upside down. Meanwhile, a parliament of owls debated the structural integrity of peanut butter bridges across the kitchen counter.
+### 1. Standard Placeholder (Lorem Ipsum)
+> *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa.*
 
-### 3. Corporate / Business Jargon
-> Moving forward, our core deliverable must leverage cross-functional synergies to maximize bandwidth across multi-tiered ecosystems. If we pivot the low-hanging fruit into actionable touchpoints, we can seamlessly optimize the client-facing pipeline by Q3.
+---
 
-### 4. Sci-Fi / Cyberpunk Log
-> **[SYSTEM ALERT: Sector 09-D]** Atmospheric scrubbers operating at 43% nominal capacity. Unidentified biometric signature detected near the hydroponic conduits. Encryption key *Delta-7* failed handshake with the main orbital relay. Manual override recommended.
+### 2. Random Flash Fiction / Story Snippet
+> The grandfather clock in the hallway struck fourteen. Arthur put down his teacup, sighed, and stared at the front door. It wasn't the extra chimes that bothered him; it was the fact that the clock had been unplugged since 1998. Outside, the rain began to fall in perfect horizontal lines across the yard, entirely ignoring the laws of gravity. He decided it was probably best to stay inside and finish his biscuit.
 
-### 5. Classic *Lorem Ipsum* (Standard Placeholder)
-> *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.*
+---
 
-***
+### 3. Surreal / Dream Logic
+> Velvet echoes drifted between the teeth of the mountain pass. A silver pocket watch forgot how to count seconds and began measuring distances instead. Down by the pier, the fishermen cast lines of spun blue glass into a sea made entirely of whispered secrets, hoping to catch the reflection of next Tuesday.
 
-**Need something specific?** Tell me if you need a specific **word count**, **topic** (e.g., fantasy, tech, dialogue), or **format** (paragraphs, single sentences, bullet points).
+---
+
+### 4. Casual Conversation / Messaging
+> *"Hey, did you ever find those keys? I checked under the driver's seat and inside the green cooler, but nothing turned up. If you took them by mistake, let me know before noon so I can figure out how I'm getting downtown."*
+
+---
+
+### 5. Playful Nonsense / Gibberish Words
+> *Plonkit zarp voolish crumbulator. Woxie dremble fizzle-fazzle blorp nontoo. Vexilator plind quibbly snort-widget, glorping the zindel through the macro-plank.*
+
+---
+
+**Need something specific?** Tell me if you need:
+- A specific word or character count
+- A specific genre (sci-fi, professional, academic, dialogue)
+- Formats like CSV, JSON, or code variables
