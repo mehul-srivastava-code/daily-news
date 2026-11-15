@@ -1,32 +1,33 @@
-Here are a few different types of random text, depending on what you need:
-
-### 1. Creative / Whimsical (Coherent sentences, random story)
-> The neon jellyfish hovered silently above the porcelain teacup, humming a faint melody from the 1920s. Marcus adjusted his brass goggles, completely unbothered by the fact that his grandfather clock was currently raining dried mint leaves onto the rug. Outside, the streetlights flickered in morse code, warning the neighborhood cats that Tuesday was running late.
+Here are a few different styles of random text depending on what you need:
 
 ---
 
-### 2. Disconnected Sentences (Great for typing tests or testing layouts)
-* The train arrived seven minutes early, confusing everyone on the platform.
-* She always kept an extra silver coin sewn into the lining of her winter coat.
-* Old pine needles crackled softly beneath the tires of the rusty bicycle.
-* If you leave the attic window open, the room smells faintly of thunder and old paper.
-* The blue notebook contained nothing but recipes for bread that had never been baked.
+### 1. Classic Placeholder (Lorem Ipsum)
+> *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.*
 
 ---
 
-### 3. Sci-Fi / Tech Jargon (Good for mock UI/Terminals)
-> Initializing orbital telemetry relay on Node-7. Variance detected in sub-quantum harmonic dampeners (tolerance shifted by 0.04%). Overriding safety protocols to stabilize the liquid nitrogen cooling matrix. Access granted: Sector 14 encrypted archive loaded into memory buffer.
+### 2. Descriptive / Narrative Fiction
+> The clockmaker’s shop smelled faintly of ozone and dried lavender. Hundreds of brass gears ticked out of sync, creating a gentle, chaotic rhythm that made the walls feel alive. In the corner, an antique automaton slowly raised its arm, paused as if reconsidering, and lowered it back onto the mahogany workbench. Outside, rain began to tap against the leaded glass windows.
 
 ---
 
-### 4. Classic "Lorem Ipsum" (Standard dummy text for web/graphic design)
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+### 3. Sci-Fi / Cyberpunk Log
+> **System Log // Sector 09-B:**  
+> Unidentified broadcast detected across sub-orbital relays at 03:42 UTC. Carrier wave modulation suggests encrypted terrestrial origin, but syntax matches obsolete atmospheric monitoring probes from the mid-22nd century. Decryption protocols initiated. Core temperature nominal; secondary heat sinks operating at 74% efficiency.
 
 ---
 
-### 5. Pure Gibberish / Pseudo-words
-> Blonkatix flervon jupitarium crax-9. Vorpish lunderkist plamming the zentrifugal yobbit. Quazzle brint froom, daxing through the slumbershot of a glorpid wumpus. 
+### 4. Corporate Jargon / Satire
+> To optimize cross-functional synergy moving into the next fiscal quarter, we must proactively leverage scalable, end-to-end deliverables. Our strategic runway depends on decoupling legacy touchpoints and leaning into high-impact, frictionless paradigms that empower stakeholders across all operational verticals.
 
 ---
 
-*If you need a specific type of text (e.g., a specific word count, professional business text, code, or a specific topic), just let me know!*
+### 5. Absurdist / Whimsical
+> A committee of sensible badgers had gathered around the kettle to discuss the sudden shortage of blue thimbles. None of them wore shoes, though three carried briefcases filled entirely with dry toast. A pigeon landed on the fence post, cleared its throat politely, and announced that Tuesday had been postponed until further notice.
+
+---
+
+***
+
+**Would you like more text in a specific format?** (e.g., custom word count, dialogue, technical documentation, poetry, or a specific genre?)
