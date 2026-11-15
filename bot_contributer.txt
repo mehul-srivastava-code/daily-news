@@ -1,33 +1,27 @@
-Here are a few different styles of random text depending on what you need:
+Here are a few different styles of random text, depending on what you need:
 
----
+### 1. Narrative / Creative Snippet
+> The copper teapot whistled a note that didn't belong to any known musical scale. Outside, the rain tapped Morse code against the attic window, spelling out messages only the house sparrow seemed to understand. Marcus adjusted his glasses, turned a blank page in his journal, and waited for the ink to remember what it was supposed to say.
 
-### 1. Classic Placeholder (Lorem Ipsum)
-> *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.*
+### 2. Sci-Fi / Tech Fiction
+> Sub-level 4 was always unusually humid. Kael scraped the bioluminescent moss off the secondary atmospheric scrubber, his magnetic boots clanking rhythmically against the rusted mesh floor. Three decks above, the hyperdrive hummed like a sleeping predator, shaking loose three centuries of deep-space dust.
 
----
+### 3. Absurd / Dream Logic (Truly Random)
+> Why argue with a pineapple when the elevator has already forgotten its own buttons? The blue velvet curtains apologized profusely for the temporary lapse in gravity, but nobody was paying attention—the socks on the radiator had just declared independence and were busy drafting a constitution.
 
-### 2. Descriptive / Narrative Fiction
-> The clockmaker’s shop smelled faintly of ozone and dried lavender. Hundreds of brass gears ticked out of sync, creating a gentle, chaotic rhythm that made the walls feel alive. In the corner, an antique automaton slowly raised its arm, paused as if reconsidering, and lowered it back onto the mahogany workbench. Outside, rain began to tap against the leaded glass windows.
+### 4. Natural Dialogue / Slice of Life
+> "Did you leave the back porch light on?"  
+> "No, why?"  
+> "Because there’s a raccoon out there, and I swear he's holding a tiny screwdriver."  
+> "Leave him alone, Leo. He’s just fixing the deck."  
+> "He’s unscrewing the bird feeder!"
 
----
-
-### 3. Sci-Fi / Cyberpunk Log
-> **System Log // Sector 09-B:**  
-> Unidentified broadcast detected across sub-orbital relays at 03:42 UTC. Carrier wave modulation suggests encrypted terrestrial origin, but syntax matches obsolete atmospheric monitoring probes from the mid-22nd century. Decryption protocols initiated. Core temperature nominal; secondary heat sinks operating at 74% efficiency.
-
----
-
-### 4. Corporate Jargon / Satire
-> To optimize cross-functional synergy moving into the next fiscal quarter, we must proactively leverage scalable, end-to-end deliverables. Our strategic runway depends on decoupling legacy touchpoints and leaning into high-impact, frictionless paradigms that empower stakeholders across all operational verticals.
-
----
-
-### 5. Absurdist / Whimsical
-> A committee of sensible badgers had gathered around the kettle to discuss the sudden shortage of blue thimbles. None of them wore shoes, though three carried briefcases filled entirely with dry toast. A pigeon landed on the fence post, cleared its throat politely, and announced that Tuesday had been postponed until further notice.
-
----
+### 5. Classic Placeholder (Lorem Ipsum)
+> *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.*
 
 ***
 
-**Would you like more text in a specific format?** (e.g., custom word count, dialogue, technical documentation, poetry, or a specific genre?)
+**Need something specific?** Tell me if you need:
+* A specific word count (e.g., 500 words)
+* A specific genre (horror, fantasy, business, academic)
+* Pure gibberish / nonsense characters
