@@ -1,27 +1,23 @@
-Here are a few different styles of random text, depending on what you need:
+Here are a few different styles of random text, depending on what you need them for:
 
-### 1. Narrative / Creative Snippet
-> The copper teapot whistled a note that didn't belong to any known musical scale. Outside, the rain tapped Morse code against the attic window, spelling out messages only the house sparrow seemed to understand. Marcus adjusted his glasses, turned a blank page in his journal, and waited for the ink to remember what it was supposed to say.
+### 1. Creative & Narrative
+> The antique toaster didn’t just brown bread; on Tuesday mornings, it occasionally burned faint, miniature maps of uncharted islands into the crust. Arthur kept thirty-seven of them filed neatly in a shoebox beneath his bed, waiting for the day he finally bought a boat.
 
-### 2. Sci-Fi / Tech Fiction
-> Sub-level 4 was always unusually humid. Kael scraped the bioluminescent moss off the secondary atmospheric scrubber, his magnetic boots clanking rhythmically against the rusted mesh floor. Three decks above, the hyperdrive hummed like a sleeping predator, shaking loose three centuries of deep-space dust.
+### 2. Sci-Fi & Atmospheric
+> Subroutine 404 blinked against the neon-washed glass. Outside, the rain smelled faintly of ozone and copper wiring. The courier adjusted his damp collar, tapped the encrypted drive in his coat pocket, and wondered if the street vendors still sold real noodles or just synthetic memories of them.
 
-### 3. Absurd / Dream Logic (Truly Random)
-> Why argue with a pineapple when the elevator has already forgotten its own buttons? The blue velvet curtains apologized profusely for the temporary lapse in gravity, but nobody was paying attention—the socks on the radiator had just declared independence and were busy drafting a constitution.
+### 3. Absurd & Humorous
+> A turquoise teacup spent three hours aggressively contemplating the architectural integrity of a cheddar block. Meanwhile, the local symphony orchestra forgot how their instruments worked and decided to dramatically recite the warning label from a bottle of laundry detergent. The audience gave a polite standing ovation.
 
-### 4. Natural Dialogue / Slice of Life
-> "Did you leave the back porch light on?"  
-> "No, why?"  
-> "Because there’s a raccoon out there, and I swear he's holding a tiny screwdriver."  
-> "Leave him alone, Leo. He’s just fixing the deck."  
-> "He’s unscrewing the bird feeder!"
+### 4. Poetic & Reflective
+> Shadows stretched across the pavement like spilled ink, whispering secrets to the cool November breeze. Somewhere between the steady hum of distant traffic and the flicker of a dying porch light, the neighborhood seemed to pause, suspended in a silence far older than the houses standing there.
 
-### 5. Classic Placeholder (Lorem Ipsum)
-> *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.*
+### 5. Tech / Corporate Placeholder (Modern "Lorem Ipsum")
+> Synchronizing the distributed ledger requires agile recalibration of our core deliverables. When cross-functional paradigms align with low-latency infrastructure, automated synergy occurs naturally. Please verify the API token before re-initializing the quantum flux pipeline.
 
 ***
 
-**Need something specific?** Tell me if you need:
-* A specific word count (e.g., 500 words)
-* A specific genre (horror, fantasy, business, academic)
-* Pure gibberish / nonsense characters
+**Need something specific?** Let me know if you need:
+* A specific length (e.g., 500 words, one paragraph)
+* Standard filler text like *Lorem Ipsum*
+* A specific genre (fantasy, horror, news article, product review)
