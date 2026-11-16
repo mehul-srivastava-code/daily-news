@@ -1,32 +1,28 @@
-Here are a few different styles of random text, depending on what you need them for:
+Here are a few different styles of random text, depending on what you need it for:
 
-### 1. Everyday Narrative (Good for UI design or general placeholders)
-> Sunlight filtered through the dense canopy of oak trees, casting dappled patterns across the worn brick path. A cool autumn breeze carried the scent of fallen leaves and woodsmoke from distant chimneys. Somewhere nearby, a bicycle bell rang twice, breaking the gentle afternoon silence as a stray cat darted under an overgrown hedge.
-
----
-
-### 2. Sci-Fi / Tech Babble (Good for gaming or futuristic concepts)
-> Orbital Array 7-Echo reported a sudden harmonic resonance within the secondary phase-coils. Chief Engineer Vance tapped the interface, cycling through the plasma conduits until the telemetry stabilized. "It’s not a routine glitch," she murmured, watching the readouts spike into the red. "Something inside the cooling grid is broadcasting an encrypted handshake."
+### 1. Classic Filler Text (*Lorem Ipsum*)
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 ---
 
-### 3. Surreal & Dreamlike (Purely random associations)
-> The antique grandfather clock struck thirteen, rattling the glass jars of preserved moonlight on the top shelf. Velvet pineapples hummed quietly in the pantry, entirely unaware that it was Tuesday. Outside, the raindrops hung suspended mid-air, waiting patiently for the wind to decide which direction it wanted to blow.
+### 2. Descriptive / Creative Fiction
+> The neon sign outside the diner buzzed intermittently, casting a pale violet hue over the rain-slicked pavement. A stray cat paused near the alley entrance, its green eyes reflecting the headlight glare of an idling delivery van. Somewhere three blocks away, a church bell tolled midnight, lost almost immediately beneath the rumble of the downtown subway line.
 
 ---
 
-### 4. Mystery / Suspense
-> The letter arrived with no return address and a wax seal that smelled faintly of salt water. Julian hesitated before slicing it open with the silver letter opener. Inside was a single sentence written in faded blue ink: *“The lighthouse was never empty, and the key is still under the loose stone.”*
+### 3. Surreal / Quirky Sentences
+> Clockwork pineapples rarely agree on the precise temperature of a Tuesday morning. If the blue bookshelf asks you for a password, offer it three copper coins and a map of an imaginary island. Always fold your shadows carefully before placing them in the overhead luggage compartment.
 
 ---
 
-### 5. Quick Random One-Liners (Disconnected thoughts)
-* The blue thermos contained neither soup nor coffee, but four polished black marbles.
-* She folded the paper map until only the empty ocean remained.
-* Every refrigerator on the third floor began humming at the exact same frequency.
-* A single yellow balloon drifted lazily past the twenty-fourth-floor window.
-* Nobody ordered the wooden crate, yet it sat by the front door, addressed to "Whoever opens this first."
+### 4. Casual / Conversational Snippet
+> Hey, did anyone happen to see where the spare HDMI cables ended up? I checked the drawer near the reception desk, but it was just packed with old sticky notes and loose AAA batteries. Let me know whenever you get a second—no huge rush.
 
-***
+---
 
-*If you need a specific type of text (e.g., classic **Lorem Ipsum**, a specific **word count**, or a particular **genre**), let me know!*
+### 5. Technical / Alphanumeric Mock Data
+> `ID: #8849-AKL` — Payload verification status: **NOMINAL**. Target cluster `us-east-b2` returned response code `204` with a latency offset of `14.2ms`. Hash string: `8f9c1a-7b30e4-99d81f`.
+
+---
+
+*If you need a specific type (e.g., exact word count, technical dummy text, markdown tables, or a specific topic), just let me know!*
