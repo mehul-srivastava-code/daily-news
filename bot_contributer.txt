@@ -1,28 +1,34 @@
-Here are a few different styles of random text, depending on what you need it for:
-
-### 1. Classic Filler Text (*Lorem Ipsum*)
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here are a few different styles of random text depending on what you need:
 
 ---
 
-### 2. Descriptive / Creative Fiction
-> The neon sign outside the diner buzzed intermittently, casting a pale violet hue over the rain-slicked pavement. A stray cat paused near the alley entrance, its green eyes reflecting the headlight glare of an idling delivery van. Somewhere three blocks away, a church bell tolled midnight, lost almost immediately beneath the rumble of the downtown subway line.
+### 1. Classic Filler (*Lorem Ipsum*)
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ---
 
-### 3. Surreal / Quirky Sentences
-> Clockwork pineapples rarely agree on the precise temperature of a Tuesday morning. If the blue bookshelf asks you for a password, offer it three copper coins and a map of an imaginary island. Always fold your shadows carefully before placing them in the overhead luggage compartment.
+### 2. Creative / Story Snippet
+> The clock struck seventeen, which was the first sign that Tuesday was going to be difficult. Outside the kitchen window, two crows wearing tiny velvet waistcoats were having a heated debate over an abandoned lemon wedge. Arthur took a sip of his lukewarm coffee, sighed, and decided that if reality wasn’t going to follow the rules today, he might as well wear mismatched socks.
 
 ---
 
-### 4. Casual / Conversational Snippet
-> Hey, did anyone happen to see where the spare HDMI cables ended up? I checked the drawer near the reception desk, but it was just packed with old sticky notes and loose AAA batteries. Let me know whenever you get a second—no huge rush.
+### 3. Sci-Fi / Technical Jargon
+> Sub-orbital packet routing failed across quadrant 7. The primary plasma conduit began oscillating at 43.8 MHz, casting a pale violet glow along the interior bulkheads. Diagnostic protocols returned an unexpected null-pointer exception in the gravity dampener subroutines. "Reroute power through the auxiliary relays," Maya said, her fingers flying over the haptic terminal. "Before the core breaches threshold."
 
 ---
 
-### 5. Technical / Alphanumeric Mock Data
-> `ID: #8849-AKL` — Payload verification status: **NOMINAL**. Target cluster `us-east-b2` returned response code `204` with a latency offset of `14.2ms`. Hash string: `8f9c1a-7b30e4-99d81f`.
+### 4. Everyday / Conversational
+> I still can’t find that blue notebook—the one with the bent spiral spine. I’m almost certain I left it on the kitchen counter next to the keys, but it’s completely vanished. Anyway, don’t forget that we need to pick up oat milk, dish soap, and more coffee filters before the shops close at six. Text me when you're on the train.
 
 ---
 
-*If you need a specific type (e.g., exact word count, technical dummy text, markdown tables, or a specific topic), just let me know!*
+### 5. Short Random One-Liners (Good for UI testing)
+* *The neon sign flickered twice before buzzing back to life.*
+* *Whispering pines swayed gently against the twilight sky.*
+* *Error 404: Motivation not found in requested directory.*
+* *A forgotten teapot whistled faintly in the empty flat.*
+* *The quick brown fox jumps over the lazy dog.*
+
+---
+
+*Need a specific word count, theme, or format (like JSON or code)? Let me know!*
