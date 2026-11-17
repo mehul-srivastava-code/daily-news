@@ -1,32 +1,35 @@
-Here are a few different styles of random text, depending on what you need them for:
+Here are a few different styles of random text, depending on what you need it for:
+
+### 1. Coherent Random Paragraph (Creative/Descriptive)
+> The neon sign outside the 24-hour diner flickered with a quiet buzz, casting long violet shadows across the damp pavement. Inside, the smell of burnt coffee and cinnamon rolls fought for dominance. A stray cat sat near the automatic sliding doors, watching the sporadic headlights of passing trucks as if waiting for a ride out of town. Nobody spoke, but the jukebox kept humming a forgotten song from the late nineties.
 
 ---
 
-### 1. Natural / Story Style (Cozy & Mysterious)
-> The brass kettle whistled softly on the iron stove, competing with the steady tap of autumn rain against the attic window. Marcus adjusted his thick spectacles, holding a tiny, polished gear between a pair of tweezers. It wasn’t supposed to tick backward, yet the faint, reversed chime echoed distinctly through the cluttered workshop. Somewhere down the hallway, an antique grandfather clock paused for half a second before joining in.
+### 2. Random Everyday Sentences (Good for testing UI/design)
+* The grandfather clock chimed thirteen times before anyone noticed it was running backward.
+* She ordered three iced coffees, not because she was thirsty, but because she liked the sound the ice made against the plastic.
+* A single green mitten lay on the subway platform, completely undisturbed by the rush-hour crowd.
+* The satellite dish was covered in ivy, quietly broadcasting bird nests to the rest of the cosmos.
+* Always check the expiration date on the milk before attempting to bake a cake at 3:00 AM.
 
 ---
 
-### 2. Modern Placeholder (Good for web design / layout mockups)
-> Innovation within distributed networks often relies on dynamic data structures and clear communication protocols. When teams streamline the feedback loop, overall productivity improves without compromising creative freedom. Balancing structural agility with consistent system architecture ensures long-term scalability across varied deployment environments.
+### 3. Classic Placeholder Text (Lorem Ipsum)
+> *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.*
 
 ---
 
-### 3. Surreal / Absurd (Pure fun randomness)
-> Neon pineapples sang opera to a bicycle made entirely of frozen cranberry juice. Why did the librarian carry seventeen mismatched socks? Because Tuesday strictly refused to wear a wristwatch, and the clouds smelled suspiciously of freshly toasted cardboard. The toaster nodded in quiet agreement.
+### 4. Surreal / Absurdist Humour
+> If the toaster insists on translating 16th-century poetry into Morse code using burnt bread crumbs, remind it that Tuesdays are reserved strictly for gravity calibration. The clouds have filed a formal complaint regarding the color of the mountains, but the fish in the library refused to comment until their tea cooled down. Please return all borrowed shadows to the front desk.
 
 ---
 
-### 4. Conversational / Everyday Snippet
-> Salt air and burnt espresso hit you the second you step off the ferry. The harbor was already loud by 6:00 AM—fishermen untangling bright orange nets while three seagulls argued violently over a stale croissant. If you take the narrow stone staircase tucked behind the bakery, you’ll find the quietest view of the entire bay.
-
----
-
-### 5. Short One-Liners (Quick fill-ins)
-* "The navigation console blinked amber: forty light-years off course, but the radio still picked up 80s disco."
-* "A lukewarm cup of tea sits beside three unfinished novels and an overly confident cat."
-* "Never trust a map drawn on a paper napkin with a green crayon."
+### 5. Technical / Sci-Fi Jargon
+> Quantum state initialized on node-04. Thermal dissipation remains within nominal tolerances, though memory leak detected in subroutine `alpha_void`. Sub-packet routing failed due to phase dissonance in the primary manifold. Initiating diagnostic loop: expected latency variance 4.2ms. Awaiting user acknowledgment.
 
 ***
 
-*Need a specific word count, language (like classic Latin *Lorem Ipsum*), or a particular theme (sci-fi, business, fantasy)? Just let me know!*
+**Need something specific?** Let me know if you need:
+* A specific length (e.g., exactly 500 words)
+* A specific style (legal, poetic, blog post, dialogue)
+* Dummy data (fake names, emails, addresses)
