@@ -1,35 +1,20 @@
-Here are a few different styles of random text, depending on what you need it for:
+Here are a few different types of random text, depending on what you need them for:
 
-### 1. Coherent Random Paragraph (Creative/Descriptive)
-> The neon sign outside the 24-hour diner flickered with a quiet buzz, casting long violet shadows across the damp pavement. Inside, the smell of burnt coffee and cinnamon rolls fought for dominance. A stray cat sat near the automatic sliding doors, watching the sporadic headlights of passing trucks as if waiting for a ride out of town. Nobody spoke, but the jukebox kept humming a forgotten song from the late nineties.
+### 1. Creative / Story Snippet
+> Station 9 hummed with the low vibration of aging cooling vents. Elena adjusted her visor, watching the neon-pink storm roll quietly over the sulfur dunes. "Three minutes until orbital drop," the automated voice chimed, completely ignoring the fact that the left landing thruster was currently showering sparks like a dying firework. She gripped the manual throttle and sighed.
 
----
+### 2. Absurd / Surrealist
+> A polished brass toaster once debated an antique umbrella about the fundamental nature of Tuesdays. The umbrella firmly maintained that rainy afternoons tasted like mint tea, while the toaster argued aggressively in favor of crunchy clouds. Meanwhile, the grandfather clock in the corner quietly melted into a pool of warm alphabet soup, spelling out the word *“almost”* before evaporating into thin air.
 
-### 2. Random Everyday Sentences (Good for testing UI/design)
-* The grandfather clock chimed thirteen times before anyone noticed it was running backward.
-* She ordered three iced coffees, not because she was thirsty, but because she liked the sound the ice made against the plastic.
-* A single green mitten lay on the subway platform, completely undisturbed by the rush-hour crowd.
-* The satellite dish was covered in ivy, quietly broadcasting bird nests to the rest of the cosmos.
-* Always check the expiration date on the milk before attempting to bake a cake at 3:00 AM.
+### 3. Realistic Placeholder (English *Lorem Ipsum*)
+> The rapid restructuring of regional supply chains demands a multifaceted approach from modern logistics teams. Beyond the obvious need for hardware maintenance, analysts must evaluate fluctuations in seasonal demand and regional warehouse capacity. Although early trials remain inconclusive, current projections indicate a potential 12% improvement in overall turnaround times before the end of the second quarter.
 
----
+### 4. Atmospheric / Poetic
+> Salt spray drifted through the gaps in the weathered cedar shingles. Out past the breaker line, the horizon was a bruised smear of plum and slate-gray. Down beneath the pier, rusted iron chains creaked in rhythm with the swell, keeping slow time for an ocean that had nowhere else to be and all the time in the world to get there.
 
-### 3. Classic Placeholder Text (Lorem Ipsum)
-> *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.*
-
----
-
-### 4. Surreal / Absurdist Humour
-> If the toaster insists on translating 16th-century poetry into Morse code using burnt bread crumbs, remind it that Tuesdays are reserved strictly for gravity calibration. The clouds have filed a formal complaint regarding the color of the mountains, but the fish in the library refused to comment until their tea cooled down. Please return all borrowed shadows to the front desk.
-
----
-
-### 5. Technical / Sci-Fi Jargon
-> Quantum state initialized on node-04. Thermal dissipation remains within nominal tolerances, though memory leak detected in subroutine `alpha_void`. Sub-packet routing failed due to phase dissonance in the primary manifold. Initiating diagnostic loop: expected latency variance 4.2ms. Awaiting user acknowledgment.
+### 5. Classic *Lorem Ipsum* (Design Dummy Text)
+> *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.*
 
 ***
 
-**Need something specific?** Let me know if you need:
-* A specific length (e.g., exactly 500 words)
-* A specific style (legal, poetic, blog post, dialogue)
-* Dummy data (fake names, emails, addresses)
+*If you need a specific type of text (e.g., test data, a specific genre, dialogue, or a certain word count), let me know!*
