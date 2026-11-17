@@ -1,20 +1,39 @@
 Here are a few different types of random text, depending on what you need them for:
 
-### 1. Creative / Story Snippet
-> Station 9 hummed with the low vibration of aging cooling vents. Elena adjusted her visor, watching the neon-pink storm roll quietly over the sulfur dunes. "Three minutes until orbital drop," the automated voice chimed, completely ignoring the fact that the left landing thruster was currently showering sparks like a dying firework. She gripped the manual throttle and sighed.
+---
 
-### 2. Absurd / Surrealist
-> A polished brass toaster once debated an antique umbrella about the fundamental nature of Tuesdays. The umbrella firmly maintained that rainy afternoons tasted like mint tea, while the toaster argued aggressively in favor of crunchy clouds. Meanwhile, the grandfather clock in the corner quietly melted into a pool of warm alphabet soup, spelling out the word *“almost”* before evaporating into thin air.
+### 1. Casual / Everyday Text Messages
+* "Did you leave the fridge door cracked open? The cat is sitting inside it again."
+* "Running about 10 minutes late, completely forgot where I put my car keys."
+* "Just saw someone walking a ferret on a leash. My day has peaked."
+* "Are we still meeting at the diner, or did the rain ruin the plans?"
 
-### 3. Realistic Placeholder (English *Lorem Ipsum*)
-> The rapid restructuring of regional supply chains demands a multifaceted approach from modern logistics teams. Beyond the obvious need for hardware maintenance, analysts must evaluate fluctuations in seasonal demand and regional warehouse capacity. Although early trials remain inconclusive, current projections indicate a potential 12% improvement in overall turnaround times before the end of the second quarter.
+---
 
-### 4. Atmospheric / Poetic
-> Salt spray drifted through the gaps in the weathered cedar shingles. Out past the breaker line, the horizon was a bruised smear of plum and slate-gray. Down beneath the pier, rusted iron chains creaked in rhythm with the swell, keeping slow time for an ocean that had nowhere else to be and all the time in the world to get there.
+### 2. Random Imaginative Sentences
+* The antique clock only ticked backwards when someone was telling a lie.
+* A sudden flurry of neon-blue butterflies interrupted the city council meeting.
+* He carefully filed the cloud photographs under "Unresolved Inquiries."
+* The smell of fresh bakery bread drifted across the foggy harbor at dawn.
 
-### 5. Classic *Lorem Ipsum* (Design Dummy Text)
-> *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.*
+---
 
-***
+### 3. Fictional / Sci-Fi Snippet
+> "The neon hum of Sector 4 rattled through the floorboards. Maya wiped rain off the terminal screen, watching the encrypted feed flicker. If the orbital relay dropped signal now, the coordinates to the old biosphere would be lost forever."
 
-*If you need a specific type of text (e.g., test data, a specific genre, dialogue, or a certain word count), let me know!*
+---
+
+### 4. Standard Placeholder (Lorem Ipsum)
+> "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+
+---
+
+### 5. Abstract / Word Salad
+> "Velvet horizon whispers triangular gravity between quiet echo gardens, folding time into glass currents beneath copper skies."
+
+---
+
+**Need something specific?** Tell me if you need:
+* A specific **length** (e.g., 500 words, one paragraph)
+* A specific **tone** (funny, creepy, professional, technical)
+* Plain placeholder text vs. readable stories.
