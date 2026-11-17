@@ -1,39 +1,29 @@
-Here are a few different types of random text, depending on what you need them for:
+Here are a few different types of random text, depending on what you need it for:
+
+### 1. Classic Placeholder (Lorem Ipsum)
+> *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.*
 
 ---
 
-### 1. Casual / Everyday Text Messages
-* "Did you leave the fridge door cracked open? The cat is sitting inside it again."
-* "Running about 10 minutes late, completely forgot where I put my car keys."
-* "Just saw someone walking a ferret on a leash. My day has peaked."
-* "Are we still meeting at the diner, or did the rain ruin the plans?"
+### 2. Creative / Story Snippet
+> *The antique clock in the hallway skipped a beat, or perhaps the afternoon simply stretched itself thin. Outside, the mist wasn't falling so much as hovering in the cold air, clinging to telephone wires like rows of glass beads. Somewhere down the street, an old radio hummed a melody nobody remembered the lyrics to anymore.*
 
 ---
 
-### 2. Random Imaginative Sentences
-* The antique clock only ticked backwards when someone was telling a lie.
-* A sudden flurry of neon-blue butterflies interrupted the city council meeting.
-* He carefully filed the cloud photographs under "Unresolved Inquiries."
-* The smell of fresh bakery bread drifted across the foggy harbor at dawn.
+### 3. Sci-Fi / Tech-Babble
+> *Sub-orbital telemetry indicates a 3.4% phase variance along the secondary relay conduits. Before initiating the core-cycle purge, verify quantum resonance dampeners across sectors 7 and 9. If thermal dispersion exceeds baseline tolerances, immediately vent auxiliary heat through the lateral exhaust manifold.*
 
 ---
 
-### 3. Fictional / Sci-Fi Snippet
-> "The neon hum of Sector 4 rattled through the floorboards. Maya wiped rain off the terminal screen, watching the encrypted feed flicker. If the orbital relay dropped signal now, the coordinates to the old biosphere would be lost forever."
+### 4. Quirky / Humorous
+> *Never trust a pigeon that walks with excessive confidence. Most birds clearly have somewhere to be, but this particular one strolled like it owned a portfolio of commercial real estate. It stopped, evaluated my bagel with the cold precision of an auditor, and shook its head in quiet disappointment.*
 
 ---
 
-### 4. Standard Placeholder (Lorem Ipsum)
-> "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+### 5. Random Keyboard Gibberish (For testing inputs)
+> `vK9#mQ2$zL8*pX!4yR7&wT1^bN6@cJ3`  
+> `fkasjdh fowieurh vmnzxclkj asdfpoiu qwerlkjsdf mnbvcxzop`
 
 ---
 
-### 5. Abstract / Word Salad
-> "Velvet horizon whispers triangular gravity between quiet echo gardens, folding time into glass currents beneath copper skies."
-
----
-
-**Need something specific?** Tell me if you need:
-* A specific **length** (e.g., 500 words, one paragraph)
-* A specific **tone** (funny, creepy, professional, technical)
-* Plain placeholder text vs. readable stories.
+*Need a specific word count, format (like JSON or Markdown), or style? Just let me know!*
