@@ -1,29 +1,20 @@
-Here are a few different types of random text, depending on what you need it for:
+Here are a few different types of random text, depending on what you need them for:
 
-### 1. Classic Placeholder (Lorem Ipsum)
-> *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.*
+### 1. Natural / Story snippet (Good for reading flow)
+> The autumn leaves danced quietly across the wet pavement as the old streetlamps flickered to life. A faint smell of roasted coffee drifted from the corner café, mixing with the crisp, damp air of early November. Somewhere down the alley, a bicycle bell rang out twice, sharp and clear against the evening hum of the city.
 
----
+### 2. Sci-Fi / Tech Jargon (Good for mockups or UI design)
+> Warning: Quantum flux deviation detected in Sector 9. The hyper-relay failed to synchronize with the secondary orbital mainframe, resulting in an uncontained data leak across the sub-ether grid. Initiate protocol 44-Delta immediately to prevent thermal overload in the plasma dampeners.
 
-### 2. Creative / Story Snippet
-> *The antique clock in the hallway skipped a beat, or perhaps the afternoon simply stretched itself thin. Outside, the mist wasn't falling so much as hovering in the cold air, clinging to telephone wires like rows of glass beads. Somewhere down the street, an old radio hummed a melody nobody remembered the lyrics to anymore.*
+### 3. Quirky / Nonsensical (Fun and creative)
+> The penguin wore a tiny velvet bowtie and insisted that Tuesdays were merely an invention of the local bakery. Nobody questioned him, mainly because he had already purchased all the blueberry muffins and was currently attempting to teach a goldfinch how to play the harmonica.
 
----
+### 4. Poetic / Atmospheric (Abstract)
+> Whispers of forgotten tides trace the edge of a glass horizon. In the quiet space between heartbeats, the lanterns surrender their warmth to the fog, leaving only the memory of silver light and the distant, patient breathing of the forest.
 
-### 3. Sci-Fi / Tech-Babble
-> *Sub-orbital telemetry indicates a 3.4% phase variance along the secondary relay conduits. Before initiating the core-cycle purge, verify quantum resonance dampeners across sectors 7 and 9. If thermal dispersion exceeds baseline tolerances, immediately vent auxiliary heat through the lateral exhaust manifold.*
+### 5. Pure Random Words (Good for placeholder tags or test data)
+> *Velvet, horizon, toaster, 849, cactus, quantum, lemonade, whisper, neon, pendulum, orbit, clumsy, silver, paradox, pineapple.*
 
----
+***
 
-### 4. Quirky / Humorous
-> *Never trust a pigeon that walks with excessive confidence. Most birds clearly have somewhere to be, but this particular one strolled like it owned a portfolio of commercial real estate. It stopped, evaluated my bagel with the cold precision of an auditor, and shook its head in quiet disappointment.*
-
----
-
-### 5. Random Keyboard Gibberish (For testing inputs)
-> `vK9#mQ2$zL8*pX!4yR7&wT1^bN6@cJ3`  
-> `fkasjdh fowieurh vmnzxclkj asdfpoiu qwerlkjsdf mnbvcxzop`
-
----
-
-*Need a specific word count, format (like JSON or Markdown), or style? Just let me know!*
+*If you need a specific type (e.g., standard **Lorem Ipsum**, realistic dialogue, test data, or a specific length), just let me know!*
