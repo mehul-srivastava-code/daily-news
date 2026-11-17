@@ -1,20 +1,34 @@
-Here are a few different types of random text, depending on what you need them for:
+Here are a few different styles of random text, depending on what you need it for:
 
-### 1. Natural / Story snippet (Good for reading flow)
-> The autumn leaves danced quietly across the wet pavement as the old streetlamps flickered to life. A faint smell of roasted coffee drifted from the corner café, mixing with the crisp, damp air of early November. Somewhere down the alley, a bicycle bell rang out twice, sharp and clear against the evening hum of the city.
+---
 
-### 2. Sci-Fi / Tech Jargon (Good for mockups or UI design)
-> Warning: Quantum flux deviation detected in Sector 9. The hyper-relay failed to synchronize with the secondary orbital mainframe, resulting in an uncontained data leak across the sub-ether grid. Initiate protocol 44-Delta immediately to prevent thermal overload in the plasma dampeners.
+### 1. Creative / Story Snippet (Coherent & Atmospheric)
+> The clockwork owl tilted its head, copper gears whirring softly in the quiet library. Outside the arched windows, a gentle neon rain slicked the streets of the lower district. Mara tightened the final bolt along the automaton’s left wing, pausing to listen to the faint rhythm of the city below. Somewhere in the sprawling labyrinth of steam pipes and stone alleys, the midnight bell began its slow, resonant toll.
 
-### 3. Quirky / Nonsensical (Fun and creative)
-> The penguin wore a tiny velvet bowtie and insisted that Tuesdays were merely an invention of the local bakery. Nobody questioned him, mainly because he had already purchased all the blueberry muffins and was currently attempting to teach a goldfinch how to play the harmonica.
+---
 
-### 4. Poetic / Atmospheric (Abstract)
-> Whispers of forgotten tides trace the edge of a glass horizon. In the quiet space between heartbeats, the lanterns surrender their warmth to the fog, leaving only the memory of silver light and the distant, patient breathing of the forest.
+### 2. Classic Placeholder (Lorem Ipsum)
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-### 5. Pure Random Words (Good for placeholder tags or test data)
-> *Velvet, horizon, toaster, 849, cactus, quantum, lemonade, whisper, neon, pendulum, orbit, clumsy, silver, paradox, pineapple.*
+---
 
-***
+### 3. Random Unrelated Sentences (Great for UI/Testing)
+* The kettle whistled twice before anyone remembered it was empty.
+* Solar flares rarely apologize for interrupted satellite transmissions.
+* She collected vintage ticket stubs mainly for the geometry of the punch holes.
+* Deep beneath the trench, the submersible’s headlights caught a flash of bioluminescent amber.
+* The algorithm suggested a blue sweater, but the user bought a ceramic cactus instead.
 
-*If you need a specific type (e.g., standard **Lorem Ipsum**, realistic dialogue, test data, or a specific length), just let me know!*
+---
+
+### 4. Conversational / Everyday Banter
+> "Honestly, if we leave by five, we might dodge the bridge traffic. Grab your jacket just in case—it looks sunny right now, but the forecast mentioned sudden showers around dusk. Also, did you remember to turn off the coffee maker, or should I run back up?"
+
+---
+
+### 5. Pure Random Gibberish / Strings (For Data/Cipher Testing)
+`xK8#vL!92pQ_zM0a wR$71kL-p99T_xQ2b Nv4@zK91!mP-aL09 qW2#vR77$kL9_xM31`
+
+---
+
+*If you need a specific type (e.g., tech jargon, medieval fantasy, business corporate speak, or a specific word count), just let me know!*
