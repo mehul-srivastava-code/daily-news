@@ -1,20 +1,28 @@
 Here are a few different types of random text, depending on what you need them for:
 
-### 1. Creative / Story Snippet
-> The copper kettle began to whistle just as Arthur noticed the stove wasn’t plugged in. Outside, the rain tasted faintly of peppermint—an odd, recurring side-effect of the local candy factory’s exhaust vents. He set his pen down, looked at the half-finished crossword puzzle, and decided that seven-letter words for "inevitable" were simply overrated on a Tuesday.
+### 1. Classic Placeholder (Lorem Ipsum)
+> *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.*
 
-### 2. Surreal / Humorous Nonsense
-> Never trust a flamingo with a wristwatch, especially if the living room tide is coming in. Last Tuesday, gravity filed for bankruptcy, leaving three squirrels and an antique toaster drifting toward the ceiling fan. If anyone asks, the password is still "lukewarm mayonnaise."
+---
 
-### 3. Philosophical / Stream of Consciousness
-> Clocks do not measure time; they merely carve it into digestible crumbs. We spend decades waiting in quiet hallways, convinced that the next door will open into somewhere familiar, forgetting that the hallway itself is the destination. Light bends, memories soften around the edges, and the horizon stays precisely where it has always been: just out of reach.
+### 2. Surreal / Creative Fiction
+> The clock struck fourteen, but nobody on the platform looked up. A stray origami crane drifted past the subway window, its paper wings rustling like dry autumn leaves. Somewhere near the turnstiles, a man in an oversized velvet trench coat carefully peeled a tangerine, pretending he couldn't see the faint blue sparks dancing around his shoelaces.
 
-### 4. Sci-Fi / Technobabble (Great for UI mockups)
-> Sub-orbital telemetry synchronized at 44.8 MHz. Quantum flux anomalies detected within the secondary coolant manifold. Override protocol delta-9 initiated; standby for hyper-threaded core de-escalation. Signal latency remains nominal across all terrestrial sectors.
+---
 
-### 5. Classic Placeholder (Lorem Ipsum)
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.
+### 3. Conversational / Casual
+> Honestly, I’m convinced my microwave has a personal grudge against me. It doesn’t matter if I set it for two minutes or ten—the edges of the lasagna end up hotter than the surface of the sun, while the exact geographic center remains frozen solid. It completely defies the laws of thermodynamics.
 
-***
+---
 
-*Need a specific length, theme, or format (like random sentences, words, or character strings)? Just let me know!*
+### 4. Sci-Fi / Tech-Jargon
+> Orbital telemetry detected a minor thermal divergence across the secondary magnetic dampeners. Technicians are advised to vent the heat sink before initiating the hyper-lane jump. If the quantum lattice drops below 40% coherence, override the terminal and engage protocol Seven-Delta immediately.
+
+---
+
+### 5. Pure Gibberish (For raw input testing)
+> *Flinkor plazum zintar vee-kosh! Mermiloon grabbit, quexy torv-nazzle. Xkjd#$9942 blort zippity-tang wozzer.*
+
+---
+
+*Need a specific word count, topic, or format? Just let me know!*
