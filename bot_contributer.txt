@@ -1,34 +1,20 @@
-Here are a few different styles of random text, depending on what you need it for:
+Here are a few different types of random text, depending on what you need them for:
 
----
+### 1. Creative / Story Snippet
+> The copper kettle began to whistle just as Arthur noticed the stove wasn’t plugged in. Outside, the rain tasted faintly of peppermint—an odd, recurring side-effect of the local candy factory’s exhaust vents. He set his pen down, looked at the half-finished crossword puzzle, and decided that seven-letter words for "inevitable" were simply overrated on a Tuesday.
 
-### 1. Creative / Story Snippet (Coherent & Atmospheric)
-> The clockwork owl tilted its head, copper gears whirring softly in the quiet library. Outside the arched windows, a gentle neon rain slicked the streets of the lower district. Mara tightened the final bolt along the automaton’s left wing, pausing to listen to the faint rhythm of the city below. Somewhere in the sprawling labyrinth of steam pipes and stone alleys, the midnight bell began its slow, resonant toll.
+### 2. Surreal / Humorous Nonsense
+> Never trust a flamingo with a wristwatch, especially if the living room tide is coming in. Last Tuesday, gravity filed for bankruptcy, leaving three squirrels and an antique toaster drifting toward the ceiling fan. If anyone asks, the password is still "lukewarm mayonnaise."
 
----
+### 3. Philosophical / Stream of Consciousness
+> Clocks do not measure time; they merely carve it into digestible crumbs. We spend decades waiting in quiet hallways, convinced that the next door will open into somewhere familiar, forgetting that the hallway itself is the destination. Light bends, memories soften around the edges, and the horizon stays precisely where it has always been: just out of reach.
 
-### 2. Classic Placeholder (Lorem Ipsum)
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### 4. Sci-Fi / Technobabble (Great for UI mockups)
+> Sub-orbital telemetry synchronized at 44.8 MHz. Quantum flux anomalies detected within the secondary coolant manifold. Override protocol delta-9 initiated; standby for hyper-threaded core de-escalation. Signal latency remains nominal across all terrestrial sectors.
 
----
+### 5. Classic Placeholder (Lorem Ipsum)
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.
 
-### 3. Random Unrelated Sentences (Great for UI/Testing)
-* The kettle whistled twice before anyone remembered it was empty.
-* Solar flares rarely apologize for interrupted satellite transmissions.
-* She collected vintage ticket stubs mainly for the geometry of the punch holes.
-* Deep beneath the trench, the submersible’s headlights caught a flash of bioluminescent amber.
-* The algorithm suggested a blue sweater, but the user bought a ceramic cactus instead.
+***
 
----
-
-### 4. Conversational / Everyday Banter
-> "Honestly, if we leave by five, we might dodge the bridge traffic. Grab your jacket just in case—it looks sunny right now, but the forecast mentioned sudden showers around dusk. Also, did you remember to turn off the coffee maker, or should I run back up?"
-
----
-
-### 5. Pure Random Gibberish / Strings (For Data/Cipher Testing)
-`xK8#vL!92pQ_zM0a wR$71kL-p99T_xQ2b Nv4@zK91!mP-aL09 qW2#vR77$kL9_xM31`
-
----
-
-*If you need a specific type (e.g., tech jargon, medieval fantasy, business corporate speak, or a specific word count), just let me know!*
+*Need a specific length, theme, or format (like random sentences, words, or character strings)? Just let me know!*
