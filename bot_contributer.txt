@@ -1,30 +1,23 @@
-Here are a few different styles of random text, depending on what you need them for:
+Here are a few different types of random text depending on what you need:
 
----
+### 1. The Narrative (Creative Fiction)
+The grandfather clock in the corner of the tea shop ticked with a slight hiccup on every fourth second. Outside, an unexpected autumn drizzle drummed a soft rhythm against the foggy bay window. Clara stirred her chamomile, watching the steam curl lazily toward the ceiling, wondering where she had misplaced the brass key to the attic trunk. 
 
-### 1. Descriptive / Atmospheric (Good for story prompts or realistic layout testing)
-> The subtle hum of the fluorescent lights filled the quiet room. On the worn oak desk sat a steaming mug of tea, its vapor curling lazily toward the ceiling. Outside, rain began to tap rhythmically against the glass, blurring the neon glow of streetlights into soft streaks of amber and cobalt. 
+### 2. The Sci-Fi Dispatch
+System diagnostic 88-Delta reported a 4% fluctuation in the hyperdrive core. Below deck, the coolant lines groaned under the sudden atmospheric shift, casting a faint ultraviolet glow across the metal grates. Jaxon tapped the cracked glass of his comm-pad, hoping the orbital tether would hold until the secondary thrusters cooled down.
 
----
+### 3. Stream of Consciousness (Whimsical / Quirky)
+Why do pineapples wear crowns if they have no kingdom? I bought a bright yellow notebook three years ago specifically to record brilliant ideas, but currently, it only contains a rough sketch of a bicycle and a recipe for toast. Meanwhile, the cat is staring at the blank hallway wall again, seemingly in contact with a parallel dimension.
 
-### 2. Sci-Fi / Technical Jargon (Good for mockups, UI, or coding placeholders)
-> Sub-orbital relays are registering a 4.2% drift in the quantum lattice. Re-routing telemetry through auxiliary node Gamma-9 failed to suppress the signal decay. If the containment sheath drops below the nominal threshold, manual override protocols will engage across all primary thrusters.
+### 4. Classic Placeholder (*Lorem Ipsum*)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
----
+### 5. Short Random Snippets (One-Liners)
+* "The blue mailbox at the corner smelled faintly of lavender and old paper."
+* "Never trust a compass that points directly toward the nearest bakery."
+* "The sound of distant train tracks is just the earth clearing its throat."
+* "A flock of paper cranes drifted across the digital screen, entirely ignoring the physics engine."
 
-### 3. Quirky / Humorous
-> Professor Barnaby insists that penguins understand jazz, but only modal jazz recorded between 1958 and 1964. To test his hypothesis, he spent an entire Tuesday sitting near the Antarctic exhibit wearing a velvet tuxedo and playing a pocket trumpet. The zookeepers were unimpressed, but three gentoo penguins definitely tapped their flippers in 4/4 time.
+***
 
----
-
-### 4. Standard Latin (*Lorem Ipsum* - Best for graphic/web design)
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
----
-
-### 5. Pure Gibberish / Pseudo-Language
-> Plorvik flandor zentis vellum, crashtor quin brolly wux. Fendle-gorp traxilator mundy vop, skree blivket noot. Vexin drapular jont, quoril stend!
-
----
-
-*Need a specific word count, format, or theme (e.g., corporate, fantasy, product reviews)? Let me know!*
+*Need something specific (like a certain word count, topic, or technical placeholder text)? Let me know!*
