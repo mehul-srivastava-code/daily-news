@@ -1,20 +1,35 @@
-Here are a few different styles of random text, depending on what you need them for:
+Here are several different styles of random text, depending on what you need them for:
 
-### 1. Creative / Story Snippet
-> The copper kettle whistled on the cast-iron stove just as the grandfather clock chimed four. Outside, the fog rolled in over the cobblestones, swallowing the streetlamps one by one. Julian adjusted his spectacles, took a sip of the bitter tea, and turned the page of the leather-bound journal he wasn’t supposed to have found.
+---
 
-### 2. Absurd / Humorous
-> The purple hedgehog politely informed the toaster that Tuesday had been rescheduled. Nobody had the heart to tell the ceiling fan, which continued to spin counter-clockwise in silent protest. Meanwhile, three ducks formed a committee demanding better pond ergonomics and higher-quality breadcrumbs.
+### 1. Creative / Fiction Snippet
+> The lighthouse hadn't been operational since the winter of '94, yet every Tuesday at precisely 3:14 AM, a single amber flash cut through the rolling sea fog. Elias checked his watch, pulled his collar against the bitter salt spray, and stepped off the edge of the pier—not into the water, but onto something solid that hadn't been there a second ago.
 
-### 3. Sci-Fi / Tech-Babble
-> *System override initiated.* Node 44-B has rerouted the optical flux through the secondary coolant grid. The neon reflections bleed across the cracked datapad screen, flickering in sync with the orbital array's telemetry ping. We have roughly three minutes before the local firewall notices the anomaly. Hold the relay steady.
+---
 
-### 4. Classic Placeholder (*Lorem Ipsum*)
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+### 2. Modern Everyday / Conversational
+> "Honestly, the coffee was fine, but the barista had this intense energy like he was actively defusing a bomb instead of steaming oat milk. I just wanted a simple latte, and now I feel like I've survived a major life event. Anyway, are we still meeting by the fountain at four?"
 
-### 5. Random Word Stream (Good for data testing)
-> velvet • tectonic • whisper • astronaut • bicycle • lemon • cascade • midnight • paradox • origami • drift • symphony • lantern • pebble • static • horizon
+---
 
-***
+### 3. Corporate / Business Jargon (Mockup Text)
+> In order to optimize cross-functional synergies moving into Q3, the leadership team will initiate a phased rollout of our revised deliverables. Please circle back with your department leads by end of day Friday to ensure stakeholder alignment and mitigate potential bandwidth bottlenecks.
 
-*If you need a specific type of text (e.g., long-form, corporate jargon, fake dialogue, or code snippets), let me know!*
+---
+
+### 4. Surreal / Dreamlike
+> A clockwork squirrel sat on the copper railing, meticulously counting acorns made of polished tin. Overhead, the evening clouds slowly rearranged themselves into the shape of a mildly disappointed teapot. Down in the square, the streetlights flickered on, humming in the key of B-flat.
+
+---
+
+### 5. Classic Placeholder (*Lorem Ipsum*)
+> *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.*
+
+---
+
+### 6. Pure Nonsense / Gibberish (Good for font testing)
+> Plinkton vorbix drel mazzle, quantik norf blivver flounce. Zoppy krellen vorst, quib-quab trundle jingle-dax. Fribble snoot wuzz, clanker-driff!
+
+---
+
+*Need a specific word count, tone (scary, funny, technical), or format (paragraphs, dialogue, bullet points)? Let me know!*
