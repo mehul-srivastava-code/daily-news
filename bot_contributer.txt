@@ -1,31 +1,28 @@
-Here are a few different types of random text, depending on what you need them for:
+Here are a few different types of random text, depending on what you need:
 
-### 1. Creative & Atmospheric (Story Snippet)
-> The mechanical owl tapped its copper beak twice against the frost-covered window. Below, the cobblestone streets hummed with the slow clatter of steam-driven delivery carts, completely oblivious to the glowing blue manuscript hidden beneath the floorboards of apartment 4B. A storm was brewing, and the air tasted faintly of ozone and dried lavender.
+### 1. Everyday Narrative (Good for mockups & placeholders)
+> The clock struck four, but the sunlight still poured generously through the tall Victorian windows. Outside, a light breeze rustled through the dry autumn leaves, scattering them across the cobblestone pathway. In the kitchen, the kettle began to whistle softly, cutting through the quiet hum of the afternoon. 
 
----
+### 2. Mystery / Story Hook
+> We never found out who left the copper key on the front porch, wrapped carefully in blue velvet. It didn't fit the front door, the old cellar, or the antique desk in the study. Stranger still, whenever you held it, the metal stayed ice-cold, as though it had just been pulled from deep, running river water.
 
-### 2. Quirky & Surreal
-> If rain fell upward, umbrellas would merely be very awkward floor mats. Professor Barnaby adjusted his spectacles, entirely convinced that his toaster had learned to communicate in Morse code. It only ever demanded one thing: slightly more artisanal sourdough.
+### 3. Sci-Fi / Tech-Babble
+> **System Alert:** Sub-orbital stabilization sequence failed at node 44-Delta. Flux telemetry indicates a 14% thermal drift across the primary quantum array. Manual override recommended: recalibrate the photonic lattice before engaging the hyper-drive, or localized temporal distortion may occur within Sector 9.
 
----
+### 4. Casual Dialogue
+> "Are we still meeting for tacos on Tuesday?"  
+> "Only if Marcus promises not to bring his ukulele this time."  
+> "Fair point. Let’s just give him the wrong address and meet at the food truck by the river instead."
 
-### 3. Everyday / Conversational
-> Honestly, I completely forgot to buy milk, but I did manage to adopt a tiny succulent shaped like a turtle. Also, the team meeting was pushed back to Thursday afternoon, so you don't need to rush those presentation slides tonight. Do you want to just order pizza?
+### 5. Surreal / Dreamlike
+> Clouds made of spun glass drifted across an ocean of warm tea. Beneath the surface, mechanical fish made of polished brass ticked softly like pocket watches, chasing floating lanterns made of dried orange peels into the deep purple horizon.
 
----
-
-### 4. Technical / Sci-Fi Jargon
-> Quantum parity checks indicated a 0.04% drift along the tertiary manifold. Before initiating the plasma containment cycle, manual override 7-Alpha must be disengaged, ensuring the coolant conduits maintain an optimal flux-to-mass ratio across all active nodes.
-
----
-
-### 5. Standard Placeholder (Lorem Ipsum)
-> *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.*
+### 6. Standard *Lorem Ipsum* (Industry standard placeholder)
+> *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris.*
 
 ***
 
 **Need something specific?** Let me know if you want:
-* A specific word count (e.g., 500 words).
-* A specific genre (horror, business email, academic essay).
-* Pure nonsense/gibberish for testing layouts.
+* A specific length (e.g., 500 words)
+* A specific style (horror, business, comedy, fantasy)
+* Pure gibberish / completely random words.
