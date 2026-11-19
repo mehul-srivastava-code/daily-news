@@ -1,34 +1,30 @@
-Here are a few different styles of random text depending on what you need:
+Here are a few different styles of random text, depending on what you need them for:
 
 ---
 
-### 1. Creative / Story Snippet (Atmospheric)
-> The neon sign outside flickered with a faint buzzing hum, casting long violet shadows across the damp pavement. Inside, the kettle whistled—a shrill interruption to the quiet rustling of old paperbacks. Elena tightened her scarf, not because of the cold draft sneaking under the door, but because she swore the locked drawer beneath the counter had just rattled on its own.
+### 1. Descriptive / Atmospheric (Good for story prompts or realistic layout testing)
+> The subtle hum of the fluorescent lights filled the quiet room. On the worn oak desk sat a steaming mug of tea, its vapor curling lazily toward the ceiling. Outside, rain began to tap rhythmically against the glass, blurring the neon glow of streetlights into soft streaks of amber and cobalt. 
 
 ---
 
-### 2. Whimsical / Surreal (Dreamlike & Quirky)
-> Nobody warned the cloud that it wasn't allowed to hover indoors. It drifted lazily over the dining room table, sprinkling a gentle mist onto the toast and confusing the cat immensely. Meanwhile, the toaster continued to believe it was an antique radio, humming obscure jazz tunes every time the lever popped back up.
+### 2. Sci-Fi / Technical Jargon (Good for mockups, UI, or coding placeholders)
+> Sub-orbital relays are registering a 4.2% drift in the quantum lattice. Re-routing telemetry through auxiliary node Gamma-9 failed to suppress the signal decay. If the containment sheath drops below the nominal threshold, manual override protocols will engage across all primary thrusters.
 
 ---
 
-### 3. Realistic Layout / Placeholder (Alternative to *Lorem Ipsum*)
-> Designing a balanced layout requires more than just arranging shapes on a canvas. It demands a clear understanding of negative space, typographic rhythm, and visual hierarchy. When elements flow naturally, the audience absorbs information effortlessly, creating an intuitive harmony between structure and aesthetic appeal.
+### 3. Quirky / Humorous
+> Professor Barnaby insists that penguins understand jazz, but only modal jazz recorded between 1958 and 1964. To test his hypothesis, he spent an entire Tuesday sitting near the Antarctic exhibit wearing a velvet tuxedo and playing a pocket trumpet. The zookeepers were unimpressed, but three gentoo penguins definitely tapped their flippers in 4/4 time.
 
 ---
 
-### 4. Sci-Fi / Tech Log
-> **[System Cycle: 884-Delta]**  
-> Main thruster cooling vents are holding at 94% capacity. Sub-level telemetry reports minor atmospheric leakage near the cargo airlock, though structural integrity remains green. The automated nav-core has adjusted our drift vector by three degrees to avoid the remnant debris field. Standard radio silence resumes in T-minus ten minutes.
+### 4. Standard Latin (*Lorem Ipsum* - Best for graphic/web design)
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 ---
 
-### 5. Short Random One-Liners
-* *The turtle held no strong opinions on modern architecture, yet it pointedly refused to look at the gazebo.*
-* *A crisp autumn breeze swept down the alley, carrying the smell of woodsmoke, old motor oil, and impending rain.*
-* *If you leave an unread book on a nightstand for more than six months, it legally becomes a coaster.*
-* *The map showed a bridge, but the river clearly had other plans.*
+### 5. Pure Gibberish / Pseudo-Language
+> Plorvik flandor zentis vellum, crashtor quin brolly wux. Fendle-gorp traxilator mundy vop, skree blivket noot. Vexin drapular jont, quoril stend!
 
 ---
 
-*If you need a specific type—like standard Latin **Lorem Ipsum**, realistic **chat conversations**, **pure gibberish**, or a specific **word count**—let me know!*
+*Need a specific word count, format, or theme (e.g., corporate, fantasy, product reviews)? Let me know!*
