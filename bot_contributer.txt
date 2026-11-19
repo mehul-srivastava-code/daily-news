@@ -1,28 +1,31 @@
-Here are a few different types of random text, depending on what you need them for:
+Here are a few different styles of random text, depending on what you need it for:
 
-### 1. Classic Placeholder (Lorem Ipsum)
+### 1. Creative / Story Snippet
+> The neon sign buzzed softly in the damp evening air, flickering intermittently between "Open" and "Hope." Inside, a brass kettle whistled on the stove, completely ignoring the storm rattling the windowpanes. Somewhere down the cobblestone alley, a train horn blew twice—a lonely reminder that the midnight express never waited for second thoughts.
+
+---
+
+### 2. Quirky / Stream of Consciousness
+> If squirrels ever decided to form a union, the global acorn market would collapse overnight. Meanwhile, the blue rug in the hallway has decided it looks better in turquoise, but only on Tuesdays. Never trust a folding chair that winks at you, and always keep a spare slice of toast in case gravity renegotiates its contract with the floor.
+
+---
+
+### 3. Sci-Fi / Technical Simulation
+> Quantum resonance detected at node 0x94B. Rerouting primary telemetry protocols through the auxiliary plasma conduit. Alert: localized temporal drift has exceeded baseline tolerance by 4.2 milliseconds. Atmospheric integrity remains at 94%, but internal coolant cycles require immediate manual recalibration.
+
+---
+
+### 4. Natural Conversation
+> "Did you leave the keys on the kitchen counter again?"  
+> "No, I swear I put them next to the toaster."  
+> "Well, they’re not next to the toaster, unless you count this suspiciously heavy avocado as a set of car keys."  
+> "Don't touch that, it's holding the mail down."
+
+---
+
+### 5. Classic Placeholder (Lorem Ipsum)
 > *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.*
 
 ---
 
-### 2. Surreal / Creative Fiction
-> The clock struck fourteen, but nobody on the platform looked up. A stray origami crane drifted past the subway window, its paper wings rustling like dry autumn leaves. Somewhere near the turnstiles, a man in an oversized velvet trench coat carefully peeled a tangerine, pretending he couldn't see the faint blue sparks dancing around his shoelaces.
-
----
-
-### 3. Conversational / Casual
-> Honestly, I’m convinced my microwave has a personal grudge against me. It doesn’t matter if I set it for two minutes or ten—the edges of the lasagna end up hotter than the surface of the sun, while the exact geographic center remains frozen solid. It completely defies the laws of thermodynamics.
-
----
-
-### 4. Sci-Fi / Tech-Jargon
-> Orbital telemetry detected a minor thermal divergence across the secondary magnetic dampeners. Technicians are advised to vent the heat sink before initiating the hyper-lane jump. If the quantum lattice drops below 40% coherence, override the terminal and engage protocol Seven-Delta immediately.
-
----
-
-### 5. Pure Gibberish (For raw input testing)
-> *Flinkor plazum zintar vee-kosh! Mermiloon grabbit, quexy torv-nazzle. Xkjd#$9942 blort zippity-tang wozzer.*
-
----
-
-*Need a specific word count, topic, or format? Just let me know!*
+**Need something specific?** Let me know if you need text with a particular word count, tone (funny, scary, formal), or purpose (coding, mockups, practice typing)!
