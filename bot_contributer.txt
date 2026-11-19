@@ -1,33 +1,31 @@
-Here are a few different styles of random text, depending on what you need it for:
+Here are a few different types of random text, depending on what you need them for:
 
-### 1. Creative & Narrative (For stories or mood setting)
-> The grandfather clock in the hallway struck thirteen, lingering on the final chime like a secret it wasn't supposed to keep. Clara adjusted her spectacles and looked down at the kettle. The steam smelled faintly of roasted lavender and old paper. Outside, the streetlights flickered against an encroaching sea fog, turning the cobblestones into wet, gray scales.
-
----
-
-### 2. Absurd & Surreal (Fun, dream-like nonsense)
-> Bananas rarely schedule appointments with gravity before noon. If you fold a cloud four times, it usually tastes like peppermint and misplaced luggage. Always remember: the third pebble from the riverbank knows your favorite color, but it took a strict vow of silence back in the summer of 1984.
+### 1. Creative & Atmospheric (Story Snippet)
+> The mechanical owl tapped its copper beak twice against the frost-covered window. Below, the cobblestone streets hummed with the slow clatter of steam-driven delivery carts, completely oblivious to the glowing blue manuscript hidden beneath the floorboards of apartment 4B. A storm was brewing, and the air tasted faintly of ozone and dried lavender.
 
 ---
 
-### 3. Corporate / Professional Placeholder (Good for mockups)
-> Cross-functional alignment remains paramount as we transition into the next operational phase. Initial data reflects a marginal increase in bandwidth constraints; however, iterative optimization strategies are projected to offset these bottlenecks by late Q3. Stakeholders are advised to review the decentralized feedback loop before the upcoming sync.
+### 2. Quirky & Surreal
+> If rain fell upward, umbrellas would merely be very awkward floor mats. Professor Barnaby adjusted his spectacles, entirely convinced that his toaster had learned to communicate in Morse code. It only ever demanded one thing: slightly more artisanal sourdough.
 
 ---
 
-### 4. Sci-Fi / Cyberpunk (Tech-heavy)
-> Sector 9 was drowning in synthetic rain, turning the neon advertisements into bleeding streaks of cyan and magenta across the pavement. Jaxon tapped the side of his optical rig, cycling through encrypted frequencies until the sub-dermal static finally cleared. The orbital drop-ship was already four minutes late.
+### 3. Everyday / Conversational
+> Honestly, I completely forgot to buy milk, but I did manage to adopt a tiny succulent shaped like a turtle. Also, the team meeting was pushed back to Thursday afternoon, so you don't need to rush those presentation slides tonight. Do you want to just order pizza?
 
 ---
 
-### 5. Classic "Lorem Ipsum" (Standard typesetting dummy text)
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.
+### 4. Technical / Sci-Fi Jargon
+> Quantum parity checks indicated a 0.04% drift along the tertiary manifold. Before initiating the plasma containment cycle, manual override 7-Alpha must be disengaged, ensuring the coolant conduits maintain an optimal flux-to-mass ratio across all active nodes.
 
 ---
 
-### 6. Pure Keyboard Gibberish (For testing inputs)
-> `xK9#vL_02p! &*dJwwq-89x? zZopL11~bW / Flurp widget blonkatron vizzle-mop 90812-ZZ`
+### 5. Standard Placeholder (Lorem Ipsum)
+> *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.*
 
 ***
 
-*Need a specific word count, language, or genre? Just let me know what you're working on!*
+**Need something specific?** Let me know if you want:
+* A specific word count (e.g., 500 words).
+* A specific genre (horror, business email, academic essay).
+* Pure nonsense/gibberish for testing layouts.
