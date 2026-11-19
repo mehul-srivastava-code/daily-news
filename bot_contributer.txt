@@ -1,23 +1,20 @@
-Here are a few different types of random text depending on what you need:
+Here are a few different styles of random text, depending on what you need them for:
 
-### 1. The Narrative (Creative Fiction)
-The grandfather clock in the corner of the tea shop ticked with a slight hiccup on every fourth second. Outside, an unexpected autumn drizzle drummed a soft rhythm against the foggy bay window. Clara stirred her chamomile, watching the steam curl lazily toward the ceiling, wondering where she had misplaced the brass key to the attic trunk. 
+### 1. Creative / Story Snippet
+> The copper kettle whistled on the cast-iron stove just as the grandfather clock chimed four. Outside, the fog rolled in over the cobblestones, swallowing the streetlamps one by one. Julian adjusted his spectacles, took a sip of the bitter tea, and turned the page of the leather-bound journal he wasn’t supposed to have found.
 
-### 2. The Sci-Fi Dispatch
-System diagnostic 88-Delta reported a 4% fluctuation in the hyperdrive core. Below deck, the coolant lines groaned under the sudden atmospheric shift, casting a faint ultraviolet glow across the metal grates. Jaxon tapped the cracked glass of his comm-pad, hoping the orbital tether would hold until the secondary thrusters cooled down.
+### 2. Absurd / Humorous
+> The purple hedgehog politely informed the toaster that Tuesday had been rescheduled. Nobody had the heart to tell the ceiling fan, which continued to spin counter-clockwise in silent protest. Meanwhile, three ducks formed a committee demanding better pond ergonomics and higher-quality breadcrumbs.
 
-### 3. Stream of Consciousness (Whimsical / Quirky)
-Why do pineapples wear crowns if they have no kingdom? I bought a bright yellow notebook three years ago specifically to record brilliant ideas, but currently, it only contains a rough sketch of a bicycle and a recipe for toast. Meanwhile, the cat is staring at the blank hallway wall again, seemingly in contact with a parallel dimension.
+### 3. Sci-Fi / Tech-Babble
+> *System override initiated.* Node 44-B has rerouted the optical flux through the secondary coolant grid. The neon reflections bleed across the cracked datapad screen, flickering in sync with the orbital array's telemetry ping. We have roughly three minutes before the local firewall notices the anomaly. Hold the relay steady.
 
 ### 4. Classic Placeholder (*Lorem Ipsum*)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-### 5. Short Random Snippets (One-Liners)
-* "The blue mailbox at the corner smelled faintly of lavender and old paper."
-* "Never trust a compass that points directly toward the nearest bakery."
-* "The sound of distant train tracks is just the earth clearing its throat."
-* "A flock of paper cranes drifted across the digital screen, entirely ignoring the physics engine."
+### 5. Random Word Stream (Good for data testing)
+> velvet • tectonic • whisper • astronaut • bicycle • lemon • cascade • midnight • paradox • origami • drift • symphony • lantern • pebble • static • horizon
 
 ***
 
-*Need something specific (like a certain word count, topic, or technical placeholder text)? Let me know!*
+*If you need a specific type of text (e.g., long-form, corporate jargon, fake dialogue, or code snippets), let me know!*
