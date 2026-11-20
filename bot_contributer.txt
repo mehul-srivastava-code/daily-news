@@ -1,31 +1,33 @@
-Here is a variety of randomly generated texts in different styles:
+Here are a few different styles of random text, depending on what you need them for:
 
-### 1. Creative Fiction (Atmospheric)
-> The rain on Aster Street never quite reached the pavement; it dissolved into a blue mist three feet above the curb, carrying the faint scent of copper and burnt cedar. Julian pulled his coat collar up against the ambient damp. In his pocket, the clockwork compass clicked twice, spun erratically counterclockwise, and settled pointing toward the closed bakery across the square.
-
----
-
-### 2. Stream-of-Consciousness / Quirky
-> Fold the corners until the triangle forgets it ever wanted to be an envelope. Monday had too many syllables, so we traded it for a pocketful of smooth river stones and a half-eaten plum. If the teapot whistles in B-flat, ignore it; the oven is just practicing its cello solos again under the floorboards.
-
----
-
-### 3. Classic Placeholder (Lorem Ipsum)
+### 1. Classic Placeholder (*Lorem Ipsum*)
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 ---
 
-### 4. Technical / Sci-Fi Jargon
-> Subroutine initialization failed at node 0x884F: quantum decoherence detected across secondary flux conduits. Re-routing heuristic logic pathways through the auxiliary buffer. Core temperature stabilizing at 412 Kelvin. Awaiting manual override token from the orbital relay array.
+### 2. Creative Fiction Snippet
+> The clocktower struck thirteen, though no one on the platform seemed to notice. A damp fog rolled off the harbor, carrying the scent of roasted chestnuts and ozone. Julian adjusted his collar, checking his pocket watch one last time before stepping aboard the midnight express to nowhere.
 
 ---
 
-### 5. Casual Message / Dialogue
-> "Honestly, I wouldn't worry about the noise. Old houses just settle weirdly when the weather turns cold. Though if it starts whistling nursery rhymes again, maybe keep your sneakers by the door just in case."
+### 3. Totally Absurd / Non-Sequitur
+> Whispering pineapples frequently negotiate with ceiling fans under the soft glow of a velvet moon. Never ask a shoelace about its opinions on quantum physics, especially on a Tuesday afternoon when the teacups are rehearsing their opera solos.
 
 ---
 
-If you need something specific, let me know:
-- **Type**: (e.g., realistic fake reviews, sci-fi lore, poetry, test data)
-- **Length**: (e.g., single sentences, 500 words, multi-paragraph)
-- **Format**: (e.g., plain text, JSON, CSV, markdown lists)
+### 4. Fake Product Review
+> Honestly, I bought this expecting a simple desk lamp, but it has completely changed my morning routine. The light is warm, the brass finish looks high-end, and it turns off with a gentle tap. Took off one star only because the power cord is a bit short. 4/5 stars.
+
+---
+
+### 5. Sci-Fi Technobabble
+> Sub-orbital frequency modulation detected at sector 7G. Re-calibrating the tachyon dampeners to compensate for the micro-rupture in the primary warp matrix. All automated sub-routines have been deferred to secondary bio-neural relays.
+
+---
+
+***
+
+**Need something specific?** Let me know if you need:
+* A specific **word/paragraph count**
+* A specific **topic** (business, fantasy, academic, code, etc.)
+* Totally **random gibberish** or strings of characters/passwords
