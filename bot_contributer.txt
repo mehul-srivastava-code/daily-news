@@ -1,28 +1,24 @@
-Here are a few different types of random text, depending on what you need:
+Here are a few different types of random texts, depending on what you need them for:
 
-### 1. Everyday Narrative (Good for mockups & placeholders)
-> The clock struck four, but the sunlight still poured generously through the tall Victorian windows. Outside, a light breeze rustled through the dry autumn leaves, scattering them across the cobblestone pathway. In the kitchen, the kettle began to whistle softly, cutting through the quiet hum of the afternoon. 
+### 1. Creative & Atmospheric (Good for story inspiration)
+> The clock on the mantelpiece ticked backward for exactly three seconds, but only the cat seemed to notice. Outside, the neon diner sign hummed a low, violet buzz against the rain-slicked pavement. Somewhere down the alley, a dropped wrench clattered against asphalt, followed by the muffled apology of someone who shouldn't have been there in the first place.
 
-### 2. Mystery / Story Hook
-> We never found out who left the copper key on the front porch, wrapped carefully in blue velvet. It didn't fit the front door, the old cellar, or the antique desk in the study. Stranger still, whenever you held it, the metal stayed ice-cold, as though it had just been pulled from deep, running river water.
+### 2. Quirky & Absurd (Fun / Random thoughts)
+> Never challenge an octopus to a game of high-stakes chess unless you’ve brought at least three spare lemons. The refrigerator has been humming in B-flat all morning, which everyone knows is the official key of impending minor inconveniences, like mismatched socks or lukewarm toast.
 
-### 3. Sci-Fi / Tech-Babble
-> **System Alert:** Sub-orbital stabilization sequence failed at node 44-Delta. Flux telemetry indicates a 14% thermal drift across the primary quantum array. Manual override recommended: recalibrate the photonic lattice before engaging the hyper-drive, or localized temporal distortion may occur within Sector 9.
+### 3. Philosophical / Thoughtful
+> We spend most of our lives collecting memories like sea glass, letting the tide smooth down the sharp edges until they catch the afternoon light just right. We often forget that the ocean doesn’t care which stones it takes back, only that the shore is eventually cleared for the next morning.
 
-### 4. Casual Dialogue
-> "Are we still meeting for tacos on Tuesday?"  
-> "Only if Marcus promises not to bring his ukulele this time."  
-> "Fair point. Let’s just give him the wrong address and meet at the food truck by the river instead."
+### 4. Classic Placeholder (Lorem Ipsum)
+> *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta.*
 
-### 5. Surreal / Dreamlike
-> Clouds made of spun glass drifted across an ocean of warm tea. Beneath the surface, mechanical fish made of polished brass ticked softly like pocket watches, chasing floating lanterns made of dried orange peels into the deep purple horizon.
+### 5. Short Random Sentences (Good for testing UI/layouts)
+* The yellow submarine ran out of blueberry jam.
+* Yesterday’s forecast promised scattered metaphors and light irony.
+* Gravity works twice as hard on Monday mornings.
+* A pocketful of dry acorns is surprisingly heavy.
+* The elevator only stops on floors that end in a prime number.
 
-### 6. Standard *Lorem Ipsum* (Industry standard placeholder)
-> *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris.*
+---
 
-***
-
-**Need something specific?** Let me know if you want:
-* A specific length (e.g., 500 words)
-* A specific style (horror, business, comedy, fantasy)
-* Pure gibberish / completely random words.
+*If you need something specific (like a certain word count, professional tone, technical jargon, or pure gibberish), just let me know!*
