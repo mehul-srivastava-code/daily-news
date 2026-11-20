@@ -1,33 +1,32 @@
-Here are a few different styles of random text, depending on what you need them for:
+Here are a few different types of random text, depending on what you need them for:
 
-### 1. Classic Placeholder (*Lorem Ipsum*)
+### 1. Coherent, Random Story Snippet
+> The clock on the mantle ticked three minutes behind the rest of the world. Clara adjusted her glasses and stared at the empty porcelain teacup. Outside, a flock of copper-colored birds landed on the telegraph wire, completely ignoring the drizzle that had started at dawn. It was Tuesday, but it felt remarkably like an apology. Somewhere down the hall, an old radiator hissed to life, groaning as if waking up from a decade-long nap.
+
+---
+
+### 2. Five Completely Unrelated Sentences
+1. The purple toaster refused to acknowledge the existence of whole-wheat bread.
+2. Gravity is merely a polite suggestion on alternate Thursdays.
+3. He kept a collection of forgotten whispers inside an antique mason jar.
+4. Bicycles don’t usually dream, but when they do, it involves steep hills and tailwinds.
+5. A neon sign buzzed softly in the alleyway, spelling out a word that had no vowels.
+
+---
+
+### 3. Corporate / Buzzword Jargon
+> We need to dynamically leverage our cross-functional deliverables to optimize the agile pipeline. Moving forward, synergizing our core competencies will empower key stakeholders to pivot toward high-impact bandwidth solutions before Q3. Let's take this offline and circle back after the deep-dive workshop.
+
+---
+
+### 4. Classic Placeholder (*Lorem Ipsum*)
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 ---
 
-### 2. Creative Fiction Snippet
-> The clocktower struck thirteen, though no one on the platform seemed to notice. A damp fog rolled off the harbor, carrying the scent of roasted chestnuts and ozone. Julian adjusted his collar, checking his pocket watch one last time before stepping aboard the midnight express to nowhere.
-
----
-
-### 3. Totally Absurd / Non-Sequitur
-> Whispering pineapples frequently negotiate with ceiling fans under the soft glow of a velvet moon. Never ask a shoelace about its opinions on quantum physics, especially on a Tuesday afternoon when the teacups are rehearsing their opera solos.
-
----
-
-### 4. Fake Product Review
-> Honestly, I bought this expecting a simple desk lamp, but it has completely changed my morning routine. The light is warm, the brass finish looks high-end, and it turns off with a gentle tap. Took off one star only because the power cord is a bit short. 4/5 stars.
-
----
-
-### 5. Sci-Fi Technobabble
-> Sub-orbital frequency modulation detected at sector 7G. Re-calibrating the tachyon dampeners to compensate for the micro-rupture in the primary warp matrix. All automated sub-routines have been deferred to secondary bio-neural relays.
-
----
+### 5. Playful Gibberish
+> Plinket quorvath zazzle-frip! The snoodly flonker barked at the wobbly snoo, dancing across the glimmer-moss with fourteen left boots. Vroop, fizzle, and a tiny scoop of marshmallow fog.
 
 ***
 
-**Need something specific?** Let me know if you need:
-* A specific **word/paragraph count**
-* A specific **topic** (business, fantasy, academic, code, etc.)
-* Totally **random gibberish** or strings of characters/passwords
+*Let me know if you need text of a specific length, tone, or format (e.g., code, poetry, product reviews)!*
