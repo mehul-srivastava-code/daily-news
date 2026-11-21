@@ -1,32 +1,20 @@
-Here are a few different types of random text, depending on what you need them for:
+Here are a few different styles of random text, depending on what you need it for:
 
-### 1. Coherent, Random Story Snippet
-> The clock on the mantle ticked three minutes behind the rest of the world. Clara adjusted her glasses and stared at the empty porcelain teacup. Outside, a flock of copper-colored birds landed on the telegraph wire, completely ignoring the drizzle that had started at dawn. It was Tuesday, but it felt remarkably like an apology. Somewhere down the hall, an old radiator hissed to life, groaning as if waking up from a decade-long nap.
+### 1. Creative / Narrative Snippet
+> The copper teapot began to whistle just as the power went out. Mark didn’t move; he stayed sitting at the edge of the worn sofa, watching the afternoon sunlight stretch across the hardwood floor. Somewhere three floors below, a bicycle bell rang twice, followed by the muffled laughter of neighborhood kids heading toward the park.
 
----
+### 2. Pure Surreal / Dream Logic (Completely Random)
+> Blueberries rarely attend council meetings on Tuesdays, mostly because the velvet armchairs keep forgetting how to speak French. A brass pocket watch melted into a puddle of lukewarm jazz, convincing the streetlamp outside that it was actually a dandelion in disguise. Do not fold the gravity before lunchtime.
 
-### 2. Five Completely Unrelated Sentences
-1. The purple toaster refused to acknowledge the existence of whole-wheat bread.
-2. Gravity is merely a polite suggestion on alternate Thursdays.
-3. He kept a collection of forgotten whispers inside an antique mason jar.
-4. Bicycles don’t usually dream, but when they do, it involves steep hills and tailwinds.
-5. A neon sign buzzed softly in the alleyway, spelling out a word that had no vowels.
+### 3. Sci-Fi / Technobabble
+> Sub-orbital relay Delta has decoupled from the primary array. Technicians are advised to bypass the secondary thermal regulators and reroute atmospheric telemetry through the auxiliary quantum buffer. If ionization exceeds 4.2 gigahertz, initiate an immediate magnetic purge of the central manifold.
 
----
+### 4. Overheard Everyday Dialogue
+> "I specifically told him that the yellow wire went to the kitchen, not the garage. Now every time someone turns on the blender, the porch light flickers like a haunted house. I'm not calling him back—we're just going to have to learn to live without smoothies after dark."
 
-### 3. Corporate / Buzzword Jargon
-> We need to dynamically leverage our cross-functional deliverables to optimize the agile pipeline. Moving forward, synergizing our core competencies will empower key stakeholders to pivot toward high-impact bandwidth solutions before Q3. Let's take this offline and circle back after the deep-dive workshop.
-
----
-
-### 4. Classic Placeholder (*Lorem Ipsum*)
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
----
-
-### 5. Playful Gibberish
-> Plinket quorvath zazzle-frip! The snoodly flonker barked at the wobbly snoo, dancing across the glimmer-moss with fourteen left boots. Vroop, fizzle, and a tiny scoop of marshmallow fog.
+### 5. Classic Placeholder (Standard Lorem Ipsum)
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 ***
 
-*Let me know if you need text of a specific length, tone, or format (e.g., code, poetry, product reviews)!*
+*If you need a specific type of text (e.g., a specific word count, marketing copy, poetry, or code), let me know!*
